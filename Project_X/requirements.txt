@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+numpy
+pandas
+pandasql
+plotly
+pyspark
+scikit-learn
+seaborn
+unidecode
