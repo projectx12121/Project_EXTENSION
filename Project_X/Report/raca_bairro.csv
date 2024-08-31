@@ -1,0 +1,276 @@
+Bairro,Raca,Quantidade
+Barra da Tijuca,Poodle,3
+Barra da Tijuca,Cocker Spaniel,3
+Barra da Tijuca,Yorkshire Terrier,2
+Barra da Tijuca,Shih Tzu,2
+Barra da Tijuca,Rottweiler,2
+Barra da Tijuca,Pug,2
+Barra da Tijuca,Maltes,2
+Barra da Tijuca,Border Collie,2
+Barra da Tijuca,Shiba Inu,1
+Barra da Tijuca,Schnauzer,1
+Barra da Tijuca,Husky Siberiano,1
+Barra da Tijuca,Dachshund,1
+Barra da Tijuca,Chihuahua,1
+Barra da Tijuca,Basset Hound,1
+Botafogo,Dachshund,3
+Botafogo,Border Collie,3
+Botafogo,Shih Tzu,2
+Botafogo,Shiba Inu,2
+Botafogo,Pug,2
+Botafogo,Pit Bull,2
+Botafogo,Maltes,2
+Botafogo,Golden Retriever,2
+Botafogo,Bulldog,2
+Botafogo,Yorkshire Terrier,1
+Botafogo,Schnauzer,1
+Botafogo,Rottweiler,1
+Botafogo,Cocker Spaniel,1
+Botafogo,Basset Hound,1
+Cascadura,Yorkshire Terrier,3
+Cascadura,Shiba Inu,3
+Cascadura,Pug,3
+Cascadura,Poodle,3
+Cascadura,Golden Retriever,3
+Cascadura,Chihuahua,3
+Cascadura,Rottweiler,2
+Cascadura,Dachshund,2
+Cascadura,Border Collie,2
+Cascadura,Shih Tzu,1
+Cascadura,Maltes,1
+Cascadura,Labrador,1
+Cascadura,Basset Hound,1
+Catete,Shih Tzu,5
+Catete,Maltes,4
+Catete,Schnauzer,2
+Catete,Rottweiler,2
+Catete,Husky Siberiano,2
+Catete,Cocker Spaniel,2
+Catete,Chihuahua,2
+Catete,Yorkshire Terrier,1
+Catete,Pug,1
+Catete,Pit Bull,1
+Catete,Labrador,1
+Catete,Golden Retriever,1
+Catete,Bulldog,1
+Catete,Border Collie,1
+Catete,Beagle,1
+Centro,Husky Siberiano,5
+Centro,Rottweiler,3
+Centro,Pit Bull,3
+Centro,Border Collie,3
+Centro,Yorkshire Terrier,2
+Centro,Chihuahua,2
+Centro,Shih Tzu,1
+Centro,Schnauzer,1
+Centro,Pug,1
+Centro,Dachshund,1
+Centro,Beagle,1
+Copacabana,Boxer,4
+Copacabana,Chihuahua,3
+Copacabana,Border Collie,3
+Copacabana,Poodle,2
+Copacabana,Cocker Spaniel,2
+Copacabana,Beagle,2
+Copacabana,Yorkshire Terrier,1
+Copacabana,Shih Tzu,1
+Copacabana,Shiba Inu,1
+Copacabana,Pug,1
+Copacabana,Pit Bull,1
+Copacabana,Maltes,1
+Copacabana,Labrador,1
+Copacabana,Husky Siberiano,1
+Copacabana,Dachshund,1
+Copacabana,Bulldog,1
+Flamengo,Maltes,4
+Flamengo,Chihuahua,4
+Flamengo,Boxer,4
+Flamengo,Bulldog,3
+Flamengo,Border Collie,3
+Flamengo,Schnauzer,2
+Flamengo,Pug,2
+Flamengo,Poodle,2
+Flamengo,Husky Siberiano,2
+Flamengo,Cocker Spaniel,2
+Flamengo,Shih Tzu,1
+Flamengo,Rottweiler,1
+Flamengo,Pit Bull,1
+Flamengo,Labrador,1
+Flamengo,Golden Retriever,1
+Flamengo,Dachshund,1
+Flamengo,Basset Hound,1
+Gloria,Basset Hound,3
+Gloria,Yorkshire Terrier,2
+Gloria,Shiba Inu,2
+Gloria,Pug,2
+Gloria,Husky Siberiano,2
+Gloria,Bulldog,2
+Gloria,Schnauzer,1
+Gloria,Poodle,1
+Gloria,Pit Bull,1
+Gloria,Labrador,1
+Gloria,Cocker Spaniel,1
+Gloria,Chihuahua,1
+Gloria,Boxer,1
+Gloria,Beagle,1
+Humaita,Rottweiler,2
+Humaita,Husky Siberiano,2
+Humaita,Cocker Spaniel,2
+Humaita,Beagle,2
+Humaita,Yorkshire Terrier,1
+Humaita,Shiba Inu,1
+Humaita,Schnauzer,1
+Humaita,Pug,1
+Humaita,Poodle,1
+Humaita,Maltes,1
+Humaita,Golden Retriever,1
+Humaita,Dachshund,1
+Humaita,Chihuahua,1
+Humaita,Boxer,1
+Humaita,Border Collie,1
+Ipanema,Husky Siberiano,6
+Ipanema,Schnauzer,3
+Ipanema,Dachshund,3
+Ipanema,Rottweiler,2
+Ipanema,Maltes,2
+Ipanema,Golden Retriever,2
+Ipanema,Cocker Spaniel,2
+Ipanema,Chihuahua,2
+Ipanema,Boxer,2
+Ipanema,Yorkshire Terrier,1
+Ipanema,Shih Tzu,1
+Ipanema,Shiba Inu,1
+Ipanema,Pug,1
+Ipanema,Poodle,1
+Ipanema,Pit Bull,1
+Ipanema,Labrador,1
+Ipanema,Bulldog,1
+Ipanema,Basset Hound,1
+Jardim Botanico,Rottweiler,3
+Jardim Botanico,Pug,3
+Jardim Botanico,Pit Bull,2
+Jardim Botanico,Labrador,2
+Jardim Botanico,Cocker Spaniel,2
+Jardim Botanico,Border Collie,2
+Jardim Botanico,Basset Hound,2
+Jardim Botanico,Shih Tzu,1
+Jardim Botanico,Schnauzer,1
+Jardim Botanico,Husky Siberiano,1
+Jardim Botanico,Golden Retriever,1
+Jardim Botanico,Dachshund,1
+Jardim Botanico,Bulldog,1
+Lapa,Labrador,5
+Lapa,Boxer,5
+Lapa,Shih Tzu,3
+Lapa,Shiba Inu,3
+Lapa,Pit Bull,3
+Lapa,Yorkshire Terrier,2
+Lapa,Maltes,2
+Lapa,Border Collie,2
+Lapa,Rottweiler,1
+Lapa,Pug,1
+Lapa,Poodle,1
+Lapa,Husky Siberiano,1
+Lapa,Golden Retriever,1
+Lapa,Dachshund,1
+Lapa,Cocker Spaniel,1
+Lapa,Chihuahua,1
+Lapa,Basset Hound,1
+Leblon,Maltes,4
+Leblon,Chihuahua,3
+Leblon,Beagle,3
+Leblon,Pug,2
+Leblon,Poodle,2
+Leblon,Pit Bull,2
+Leblon,Cocker Spaniel,2
+Leblon,Bulldog,2
+Leblon,Yorkshire Terrier,1
+Leblon,Shiba Inu,1
+Leblon,Schnauzer,1
+Leblon,Labrador,1
+Leblon,Husky Siberiano,1
+Leblon,Dachshund,1
+Leblon,Border Collie,1
+Leblon,Basset Hound,1
+Recreio dos Bandeirantes,Poodle,4
+Recreio dos Bandeirantes,Husky Siberiano,3
+Recreio dos Bandeirantes,Chihuahua,3
+Recreio dos Bandeirantes,Boxer,3
+Recreio dos Bandeirantes,Rottweiler,2
+Recreio dos Bandeirantes,Pug,2
+Recreio dos Bandeirantes,Maltes,2
+Recreio dos Bandeirantes,Golden Retriever,2
+Recreio dos Bandeirantes,Shih Tzu,1
+Recreio dos Bandeirantes,Shiba Inu,1
+Recreio dos Bandeirantes,Pit Bull,1
+Recreio dos Bandeirantes,Dachshund,1
+Recreio dos Bandeirantes,Border Collie,1
+Recreio dos Bandeirantes,Basset Hound,1
+Rio Comprido,Bulldog,4
+Rio Comprido,Yorkshire Terrier,3
+Rio Comprido,Husky Siberiano,3
+Rio Comprido,Boxer,3
+Rio Comprido,Shih Tzu,2
+Rio Comprido,Rottweiler,2
+Rio Comprido,Border Collie,2
+Rio Comprido,Poodle,1
+Rio Comprido,Maltes,1
+Rio Comprido,Labrador,1
+Rio Comprido,Golden Retriever,1
+Rio Comprido,Dachshund,1
+Rio Comprido,Cocker Spaniel,1
+Rio Comprido,Beagle,1
+Rio Comprido,Basset Hound,1
+Santa Teresa,Bulldog,3
+Santa Teresa,Schnauzer,2
+Santa Teresa,Pug,2
+Santa Teresa,Maltes,2
+Santa Teresa,Dachshund,2
+Santa Teresa,Boxer,2
+Santa Teresa,Basset Hound,2
+Santa Teresa,Yorkshire Terrier,1
+Santa Teresa,Rottweiler,1
+Santa Teresa,Pit Bull,1
+Santa Teresa,Labrador,1
+Santa Teresa,Cocker Spaniel,1
+Santa Teresa,Border Collie,1
+Sao Conrado,Shiba Inu,3
+Sao Conrado,Golden Retriever,3
+Sao Conrado,Yorkshire Terrier,2
+Sao Conrado,Poodle,2
+Sao Conrado,Border Collie,2
+Sao Conrado,Shih Tzu,1
+Sao Conrado,Dachshund,1
+Sao Conrado,Cocker Spaniel,1
+Sao Conrado,Chihuahua,1
+Sao Conrado,Boxer,1
+Sao Conrado,Beagle,1
+Tijuca,Boxer,4
+Tijuca,Basset Hound,3
+Tijuca,Rottweiler,2
+Tijuca,Maltes,2
+Tijuca,Golden Retriever,2
+Tijuca,Chihuahua,2
+Tijuca,Yorkshire Terrier,1
+Tijuca,Schnauzer,1
+Tijuca,Pug,1
+Tijuca,Pit Bull,1
+Tijuca,Labrador,1
+Tijuca,Husky Siberiano,1
+Tijuca,Dachshund,1
+Tijuca,Bulldog,1
+Tijuca,Border Collie,1
+Tijuca,Beagle,1
+Vila Isabel,Shih Tzu,2
+Vila Isabel,Pug,2
+Vila Isabel,Maltes,2
+Vila Isabel,Labrador,2
+Vila Isabel,Dachshund,2
+Vila Isabel,Bulldog,2
+Vila Isabel,Basset Hound,2
+Vila Isabel,Shiba Inu,1
+Vila Isabel,Schnauzer,1
+Vila Isabel,Poodle,1
+Vila Isabel,Golden Retriever,1
+Vila Isabel,Chihuahua,1
+Vila Isabel,Beagle,1

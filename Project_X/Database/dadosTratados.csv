@@ -1,0 +1,484 @@
+Cliente,Endereco,CPF,Bairro,Salario,Raca,Sexo,Profissao,Idade,Celular
+Patricia Melo,"Avenida Glaucio Gil, 6646",61302501849.0,Recreio dos Bandeirantes,7586.78,Poodle,Feminino,Arquiteto,20,(21) 92617-3150
+Rodrigo Costa,"Rua Gal. Osorio, 9448",67177715505.0,Cascadura,4434.36,Poodle,Masculino,Publicitario,29,(21) 92032-5663
+Thiago Souza,"Praia de Botafogo, 2145",26911078678.0,Botafogo,9787.74,Bulldog,Masculino,Administrador,51,(21) 90435-2109
+Andre Carvalho,"Avenida Ayrton Senna, 5716",76451639498.0,Barra da Tijuca,3563.91,Poodle,Masculino,Jornalista,65,(21) 94973-6373
+Diego Silva,"Rua Heitor de Silva Costa, 4524",60215093985.0,Vila Isabel,2094.32,Basset Hound,Masculino,Professor,66,(21) 94591-9335
+Viviane Mendes,"Rua Candido Mendes, 7130",44775257324.0,Gloria,5903.54,Pug,Feminino,Enfermeiro,36,(21) 96086-6927
+Camila Pereira,"Rua Mem de Sa, 4227",24839768022.0,Lapa,7769.81,Shiba Inu,Feminino,Jornalista,31,(21) 91906-1312
+Felipe Oliveira,"Rua da Assembleia, 4275",78771622440.0,Centro,1989.71,Pit Bull,Masculino,Psicologo,18,(21) 94197-8405
+Thiago Souza,"Avenida Rio Branco, 8386",63896132065.0,Centro,7613.31,Husky Siberiano,Masculino,Padeiro,46,(21) 93449-5232
+Thiago Souza,"Rua Mem de Sa, 1125",76179586243.0,Lapa,9233.76,Labrador,Masculino,Producao de Eventos,39,(21) 98962-2176
+Daniel Araujo,"Rua Gal. Osorio, 8979",48406113501.0,Cascadura,2047.54,Border Collie,Masculino,Terapeuta Ocupacional,27,(21) 98887-7025
+Juliana Costa,"Rua Candido Mendes, 2405",26746220862.0,Gloria,8792.31,Shiba Inu,Feminino,Advogado,52,(21) 95798-5129
+Natalia Pinto,"Rua Joao Lira, 9092",30978885564.0,Sao Conrado,5164.56,Shiba Inu,Feminino,Administrador,56,(21) 96297-7422
+Leandro Rodrigues,"Rua Ary Schiavo, 2864",34417421108.0,Barra da Tijuca,3362.28,Border Collie,Masculino,Biologo,28,(21) 94388-2436
+Patricia Melo,"Rua Barata Ribeiro, 3062",32376957738.0,Copacabana,5666.97,Poodle,Feminino,Contador,64,(21) 97390-2200
+Fernanda Santos,"Rua Bartolomeu Mitre, 285",58078657752.0,Leblon,6772.75,Chihuahua,Feminino,Padeiro,46,(21) 90467-7048
+Gustavo Moreira,"Rua Gal. Osorio, 8897",22766480049.0,Cascadura,9325.24,Poodle,Masculino,Biologo,39,(21) 97767-5508
+Isabela Martins,"Rua Mem de Sa, 5841",81748198139.0,Lapa,6245.88,Poodle,Feminino,Antropologo,52,(21) 95048-5300
+Maria Luiza Silva,"Rua do Dende, 3001",30472272434.0,Recreio dos Bandeirantes,6433.12,Chihuahua,Feminino,Analista de Sistemas,66,(21) 97666-1441
+Pedro Pinto,"Rua Ataulfo de Paiva, 4526",27853840521.0,Leblon,2610.62,Basset Hound,Masculino,Padeiro,45,(21) 97583-6021
+Amanda Carvalho,"Rua da Assembleia, 3905",10456652248.0,Centro,6243.66,Pit Bull,Feminino,Engenheiro,51,(21) 95535-6489
+Carlos Santos,"Rua Paissandu, 2819",51597733515.0,Flamengo,1736.47,Husky Siberiano,Masculino,Padeiro,57,(21) 96926-2436
+Michele Araujo,"Rua Sao Clemente, 4728",48417483559.0,Botafogo,3370.24,Maltes,Feminino,Psicologo,57,(21) 99041-8812
+Thiago Souza,"Rua Visconde de Piraja, 302",21873726179.0,Ipanema,2849.46,Poodle,Masculino,Geografo,43,(21) 92218-7314
+Luana Campos,"Rua Garcia d'Avila, 3568",54709761313.0,Ipanema,8330.47,Boxer,Feminino,Chef de Cozinha,34,(21) 94615-4492
+Eduardo Campos,"Rua Almirante Alexandrino, 9283",93383134007.0,Santa Teresa,6899.58,Pit Bull,Masculino,Advogado,39,(21) 95973-9009
+Natalia Pinto,"Rua do Dende, 901",13595001218.0,Recreio dos Bandeirantes,5359.34,Maltes,Feminino,Personal Trainer,21,(21) 96443-3739
+Ana Beatriz Oliveira,"Rua Marques de Abrantes, 3978",51023472013.0,Flamengo,9300.23,Boxer,Feminino,Designer,44,(21) 99287-5865
+Joao Almeida,"Rua Buarque de Macedo, 9316",72676524476.0,Vila Isabel,6613.76,Golden Retriever,Masculino,Arquiteto,70,(21) 93311-2205
+Gabriela Rocha,"Rua Clarimundo de Melo, 2110",98781896864.0,Tijuca,7297.02,Rottweiler,Feminino,Antropologo,61,(21) 95259-2446
+Rodrigo Costa,"Rua Casemiro de Abreu, 8025",91643846453.0,Cascadura,8999.54,Yorkshire Terrier,Masculino,Professor,22,(21) 98144-3655
+Michele Araujo,"Rua Paissandu, 5533",37916094420.0,Flamengo,1409.09,Boxer,Feminino,Desenvolvedor,43,(21) 91550-3831
+Rodrigo Costa,"Rua Casemiro de Abreu, 4300",80418077830.0,Cascadura,6362.07,Golden Retriever,Masculino,Personal Trainer,54,(21) 99633-5289
+Daniele Souza,"Rua General Glicerio, 847",17437984903.0,Rio Comprido,5598.08,Rottweiler,Feminino,Artesao,43,(21) 94919-7459
+Felipe Oliveira,"Avenida Vieira Souto, 4538",52936218175.0,Ipanema,9220.5,Pug,Masculino,Publicitario,40,(21) 93806-3242
+Felipe Oliveira,"Rua Joaquim Nabuco, 7518",62257505436.0,Recreio dos Bandeirantes,3011.4,Shiba Inu,Masculino,Musico,43,(21) 94592-5036
+Michele Araujo,"Avenida Ayrton Senna, 8072",72191969445.0,Barra da Tijuca,1957.04,Schnauzer,Feminino,Desenvolvedor,25,(21) 99879-6777
+Ricardo Martins,"Avenida Vieira Souto, 7548",17283240088.0,Ipanema,6871.03,Husky Siberiano,Masculino,Dentista,63,(21) 90498-3566
+Ana Beatriz Oliveira,"Rua Bento Lisboa, 3810",81022475367.0,Humaita,6947.02,Shiba Inu,Feminino,Artesao,60,(21) 98444-3186
+Michele Araujo,"Rua do Rio Comprido, 6240",80517040497.0,Rio Comprido,6009.23,Boxer,Feminino,Psicologo,30,(21) 91273-5265
+Diego Silva,"Rua Farme de Amoedo, 6633",88301471226.0,Ipanema,9441.05,Labrador,Masculino,Contador,66,(21) 90670-4234
+Gabriel Rocha,"Rua Nelson Mandela, 8045",39233852751.0,Botafogo,8593.5,Pug,Masculino,Diretor,65,(21) 91533-5805
+Juliana Costa,"Rua Garcia d'Avila, 3453",89890016678.0,Ipanema,2473.73,Yorkshire Terrier,Feminino,Gerente,56,(21) 93819-1806
+Antonio Silva,"Rua dos Arcos, 4514",87408932043.0,Lapa,2431.45,Yorkshire Terrier,Masculino,Gerente,72,(21) 90026-7949
+Maria Luiza Silva,"Rua do Lavradio, 5343",23906154552.0,Catete,9070.0,Husky Siberiano,Feminino,Terapeuta Ocupacional,69,(21) 93668-3210
+Carlos Santos,"Rua Joaquim Nabuco, 8957",50055819100.0,Recreio dos Bandeirantes,2476.43,Maltes,Masculino,Analista de Sistemas,72,(21) 95048-2974
+Antonio Silva,"Rua Sao Clemente, 4547",78002695301.0,Humaita,6631.99,Dachshund,Masculino,Diretor,33,(21) 98234-7753
+Amanda Carvalho,"Rua Barata Ribeiro, 8811",62924221549.0,Copacabana,3645.58,Bulldog,Feminino,Advogado,61,(21) 96486-3823
+Viviane Mendes,"Rua Professor Annes Dias, 8657",98534754615.0,Sao Conrado,8322.16,Dachshund,Feminino,Advogado,64,(21) 94287-1290
+Marcelo Lima,"Rua do Dende, 1143",79460246459.0,Recreio dos Bandeirantes,9615.79,Border Collie,Masculino,Professor,46,(21) 97920-2758
+Amanda Carvalho,"Rua Miguel Lemos, 202",42307886734.0,Sao Conrado,7253.78,Border Collie,Feminino,Antropologo,37,(21) 98877-7229
+Gabriel Rocha,"Rua Casemiro de Abreu, 4177",47226686231.0,Cascadura,2557.7,Shiba Inu,Masculino,Medico,57,(21) 98550-4487
+Antonio Silva,"Rua Silveira Martins, 5418",41643427003.0,Catete,5519.22,Rottweiler,Masculino,Medico,28,(21) 94348-1005
+Larissa Ferreira,"Rua General Glicerio, 894",51585997412.0,Rio Comprido,7865.05,Yorkshire Terrier,Feminino,Jornalista,36,(21) 95429-5384
+Camila Pereira,"Rua General Glicerio, 4971",51380423894.0,Rio Comprido,4654.84,Bulldog,Feminino,Chef de Cozinha,47,(21) 99846-5628
+Ricardo Martins,"Rua do Catete, 3394",74423807390.0,Flamengo,5756.89,Schnauzer,Masculino,Antropologo,70,(21) 96743-7917
+Thiago Souza,"Praia de Botafogo, 6637",20276124166.0,Botafogo,4163.07,Golden Retriever,Masculino,Desenvolvedor,52,(21) 98959-8633
+Rafael Melo,"Rua Barao de Santa Marta, 5833",81574140863.0,Rio Comprido,4342.69,Bulldog,Masculino,Psicologo,44,(21) 97301-2290
+Vinicius Santos,"Avenida Vieira Souto, 6693",73997620801.0,Ipanema,4742.5,Husky Siberiano,Masculino,Economista,71,(21) 92084-9522
+Juliana Costa,"Rua General Artigas, 1330",68471219244.0,Leblon,3308.32,Cocker Spaniel,Feminino,Musico,55,(21) 96287-2776
+Bruna Alves,"Rua Casemiro de Abreu, 9130",30453970621.0,Cascadura,4127.03,Rottweiler,Feminino,Fisioterapeuta,28,(21) 93363-5713
+Luana Campos,"Rua Gal. Osorio, 1974",43997739663.0,Cascadura,8790.59,Labrador,Feminino,Enfermeiro,25,(21) 95695-3081
+Pedro Pinto,"Rua Candido Mendes, 4926",48128902482.0,Gloria,4916.54,Basset Hound,Masculino,Farmaceutico,42,(21) 95071-7169
+Vinicius Santos,"Rua do Lavradio, 4368",27629539447.0,Lapa,2994.71,Boxer,Masculino,Desenvolvedor,53,(21) 99291-1114
+Juliana Costa,"Rua Jose Higino, 8383",49891421313.0,Tijuca,5444.21,Golden Retriever,Feminino,Professor,60,(21) 99058-6830
+Pedro Pinto,"Rua do Lavradio, 3452",95144592741.0,Lapa,9771.45,Pit Bull,Masculino,Lider de Projeto,47,(21) 90959-1802
+Carlos Santos,"Rua Bartolomeu Mitre, 391",98202447256.0,Leblon,7903.46,Pug,Masculino,Fisioterapeuta,21,(21) 99813-4216
+Joao Almeida,"Rua Bento Lisboa, 2470",39472444805.0,Humaita,8164.2,Husky Siberiano,Masculino,Psicologo,18,(21) 97974-8120
+Daniel Araujo,"Rua Bartolomeu Mitre, 5689",47998933888.0,Leblon,6788.08,Labrador,Masculino,Chef de Cozinha,29,(21) 95535-4379
+Patricia Melo,"Rua Buarque de Macedo, 601",42837653025.0,Vila Isabel,4108.66,Chihuahua,Feminino,Advogado,72,(21) 99583-2691
+Ana Beatriz Oliveira,"Rua Clarimundo de Melo, 8517",75673797704.0,Tijuca,7446.84,Basset Hound,Feminino,Designer,44,(21) 98142-2607
+Larissa Ferreira,"Rua General Glicerio, 3867",24833386476.0,Rio Comprido,8736.57,Golden Retriever,Feminino,Designer,32,(21) 92536-7107
+Larissa Ferreira,"Rua Gal. Osorio, 5526",98409601891.0,Cascadura,2935.36,Chihuahua,Feminino,Dentista,26,(21) 92421-1117
+Fernanda Santos,"Praia de Botafogo, 8723",73056982047.0,Botafogo,6372.18,Basset Hound,Feminino,Enfermeiro,66,(21) 94506-3376
+Antonio Silva,"Rua Marques de Abrantes, 1032",99728572365.0,Flamengo,2100.29,Dachshund,Masculino,Arquiteto,25,(21) 99470-6859
+Amanda Carvalho,"Rua do Lavradio, 7958",17077594037.0,Lapa,5144.08,Maltes,Feminino,Artesao,54,(21) 96939-1717
+Vinicius Santos,"Rua do Catete, 4321",72326400951.0,Flamengo,2782.84,Border Collie,Masculino,Administrador,66,(21) 91451-1947
+Luana Campos,"Rua do Lavradio, 9046",48975417186.0,Lapa,2443.2,Boxer,Feminino,Antropologo,55,(21) 99790-7871
+Camila Pereira,"Rua Heitor de Silva Costa, 5966",24928283758.0,Vila Isabel,5778.82,Dachshund,Feminino,Veterinario,53,(21) 99782-2599
+Maria Luiza Silva,"Rua Jardim Botanico, 8319",73368646456.0,Jardim Botanico,1619.81,Shih Tzu,Feminino,Psicologo,58,(21) 96711-3972
+Pedro Pinto,"Rua do Pepino, 2855",56459123530.0,Recreio dos Bandeirantes,1849.22,Chihuahua,Masculino,Publicitario,53,(21) 92586-1651
+Patricia Melo,"Rua Farme de Amoedo, 6297",35615426526.0,Ipanema,3288.99,Husky Siberiano,Feminino,Biologo,54,(21) 91014-8909
+Amanda Carvalho,"Rua Nelson Mandela, 6952",32966523768.0,Botafogo,3914.35,Dachshund,Feminino,Padeiro,32,(21) 99665-7374
+Gustavo Moreira,"Rua do Catete, 6869",39051960557.0,Catete,8447.34,Labrador,Masculino,Veterinario,28,(21) 97199-4118
+Eduardo Campos,"Rua do Anil, 7830",40910336128.0,Barra da Tijuca,7522.54,Cocker Spaniel,Masculino,Diretor,32,(21) 91957-9460
+Joao Almeida,"Rua Joao Vicente, 466",81718583123.0,Vila Isabel,8498.14,Basset Hound,Masculino,Jornalista,56,(21) 96163-7595
+Pedro Pinto,"Rua do Ouvidor, 3386",45696263741.0,Centro,2810.18,Pit Bull,Masculino,Psicologo,42,(21) 97365-4436
+Rodrigo Costa,"Rua Ary Schiavo, 552",38774440993.0,Barra da Tijuca,1812.35,Rottweiler,Masculino,Farmaceutico,65,(21) 91382-5399
+Carlos Santos,"Rua Marquesa de Santos, 3040",88697179368.0,Jardim Botanico,2258.96,Border Collie,Masculino,Psicologo,35,(21) 91316-3219
+Vinicius Santos,"Rua General Glicerio, 8764",57700087245.0,Rio Comprido,6748.65,Boxer,Masculino,Contador,40,(21) 96320-9978
+Antonio Silva,"Rua da Gloria, 4482",43591982373.0,Gloria,6449.56,Boxer,Masculino,Fisioterapeuta,67,(21) 99345-7788
+Maria Luiza Silva,"Rua Visconde de Piraja, 8399",94556926022.0,Ipanema,4948.16,Bulldog,Feminino,Dentista,33,(21) 95022-8589
+Amanda Carvalho,"Rua Miguel Lemos, 1903",27917228609.0,Sao Conrado,3153.33,Shih Tzu,Feminino,Gerente,43,(21) 99008-9745
+Ana Beatriz Oliveira,"Rua da Gloria, 1188",28234940327.0,Gloria,5108.39,Poodle,Feminino,Jornalista,65,(21) 97186-6050
+Ricardo Martins,"Rua General Glicerio, 3229",32300471349.0,Rio Comprido,4586.69,Border Collie,Masculino,Geografo,55,(21) 95453-9266
+Amanda Carvalho,"Rua Marques de Abrantes, 467",28777358823.0,Flamengo,5390.0,Poodle,Feminino,Antropologo,40,(21) 91055-9110
+Ana Beatriz Oliveira,"Rua Barao de Sao Francisco, 7139",66123196938.0,Humaita,6321.22,Pug,Feminino,Chef de Cozinha,48,(21) 96259-6384
+Viviane Mendes,"Rua Estrela, 6300",15733820581.0,Santa Teresa,9509.1,Basset Hound,Feminino,Artesao,31,(21) 95553-5844
+Rafael Melo,"Rua do Lavradio, 144",79793385207.0,Lapa,7202.43,Labrador,Masculino,Chef de Cozinha,43,(21) 95913-5093
+Natalia Pinto,"Avenida Ayrton Senna, 8266",26856473038.0,Barra da Tijuca,3087.15,Maltes,Feminino,Artesao,31,(21) 90957-4263
+Bruna Alves,"Rua Senador Dantas, 2880",33874546807.0,Flamengo,6591.28,Chihuahua,Feminino,Historiador,55,(21) 93767-4757
+Thiago Souza,"Rua Marques de Abrantes, 5570",98343902605.0,Flamengo,5348.13,Pug,Masculino,Fisioterapeuta,22,(21) 93432-5674
+Maria Luiza Silva,"Avenida Delfim Moreira, 117",52483058225.0,Leblon,1864.61,Cocker Spaniel,Feminino,Biologo,58,(21) 99868-3499
+Maria Luiza Silva,"Rua Paula Freitas, 1218",26575173797.0,Copacabana,6715.85,Boxer,Feminino,Publicitario,69,(21) 97454-5673
+Gabriel Rocha,"Rua Visconde de Piraja, 3830",76214236011.0,Ipanema,8309.75,Chihuahua,Masculino,Administrador,20,(21) 90754-9000
+Joao Almeida,"Rua Ataulfo de Paiva, 9790",21184583607.0,Leblon,2669.39,Pug,Masculino,Professor,20,(21) 93457-7438
+Joao Almeida,"Rua dos Arcos, 8289",71728800926.0,Lapa,8514.3,Rottweiler,Masculino,Ator,64,(21) 93978-9100
+Amanda Carvalho,"Rua do Catete, 41",10005085983.0,Catete,2472.48,Maltes,Feminino,Advogado,60,(21) 90164-2312
+Natalia Pinto,"Rua Joao Vicente, 7263",69407680275.0,Vila Isabel,2052.2,Pug,Feminino,Geografo,25,(21) 94379-5837
+Roberta Moreira,"Rua Lopes Quintas, 2798",19960019059.0,Jardim Botanico,9835.0,Golden Retriever,Feminino,Historiador,20,(21) 98615-2391
+Michele Araujo,"Rua do Lavradio, 2340",33192789970.0,Lapa,3307.62,Shiba Inu,Feminino,Fisioterapeuta,24,(21) 91577-4695
+Michele Araujo,"Rua Primeiro de Marco, 8072",21444523908.0,Centro,6526.33,Shih Tzu,Feminino,Ator,29,(21) 93558-5677
+Andre Carvalho,"Avenida Delfim Moreira, 9503",62520779690.0,Leblon,4412.34,Shiba Inu,Masculino,Gerente,18,(21) 90611-4930
+Gabriela Rocha,"Rua General Glicerio, 8104",25171664196.0,Rio Comprido,7627.49,Maltes,Feminino,Historiador,40,(21) 96883-3408
+Thiago Souza,"Rua Joao Lira, 5907",82910914828.0,Sao Conrado,9845.32,Shiba Inu,Masculino,Medico,22,(21) 92720-8167
+Carla Rodrigues,"Avenida Glaucio Gil, 4329",64172658458.0,Recreio dos Bandeirantes,1543.3,Rottweiler,Feminino,Gerente,50,(21) 97288-9360
+Eduardo Campos,"Rua Ataulfo de Paiva, 1826",30585846476.0,Leblon,2826.93,Husky Siberiano,Masculino,Economista,57,(21) 95695-9116
+Daniel Araujo,"Rua Plinio Casado, 1983",73712873395.0,Cascadura,5071.3,Pug,Masculino,Analista de Sistemas,62,(21) 99121-4979
+Juliana Costa,"Rua Professor Annes Dias, 1883",69965011457.0,Sao Conrado,3538.42,Yorkshire Terrier,Feminino,Publicitario,57,(21) 98054-1170
+Vinicius Santos,"Rua Visconde de Piraja, 197",30064986263.0,Ipanema,7725.98,Shih Tzu,Masculino,Producao de Eventos,18,(21) 90762-2472
+Rodrigo Costa,"Rua do Lavradio, 2256",83383315731.0,Catete,7099.62,Schnauzer,Masculino,Padeiro,39,(21) 96619-2312
+Gabriel Rocha,"Rua Buarque de Macedo, 888",35187919297.0,Vila Isabel,1619.46,Bulldog,Masculino,Lider de Projeto,68,(21) 96461-7508
+Mariana Lima,"Rua Estrela, 6138",61068425853.0,Santa Teresa,8192.18,Maltes,Feminino,Medico,26,(21) 93803-5090
+Natalia Pinto,"Rua Joao Vicente, 5060",90770627230.0,Vila Isabel,1359.66,Shih Tzu,Feminino,Diretor,30,(21) 90065-6531
+Diego Silva,"Rua Nelson Mandela, 3144",21015791645.0,Botafogo,1664.47,Border Collie,Masculino,Arquiteto,72,(21) 91207-1481
+Patricia Melo,"Rua Conde de Bonfim, 53",77050426225.0,Tijuca,7389.96,Maltes,Feminino,Dentista,29,(21) 92599-3034
+Camila Pereira,"Rua do Bispo, 3644",77920136839.0,Rio Comprido,7973.12,Beagle,Feminino,Advogado,31,(21) 95529-9704
+Fernanda Santos,"Avenida Glaucio Gil, 6600",33212205674.0,Recreio dos Bandeirantes,9907.91,Pug,Feminino,Ator,66,(21) 98925-5799
+Gabriela Rocha,"Rua do Anil, 2642",31768794238.0,Barra da Tijuca,2680.49,Yorkshire Terrier,Feminino,Farmaceutico,49,(21) 90488-1287
+Ana Beatriz Oliveira,"Rua Paissandu, 5699",54544678838.0,Flamengo,8290.74,Maltes,Feminino,Antropologo,59,(21) 97313-6345
+Gabriel Rocha,"Rua dos Arcos, 6044",64803433595.0,Lapa,2877.72,Labrador,Masculino,Padeiro,30,(21) 97462-3667
+Ricardo Martins,"Avenida Aquarela do Brasil, 1441",20521991106.0,Sao Conrado,2934.82,Golden Retriever,Masculino,Ator,18,(21) 91522-6161
+Bruna Alves,"Rua Sao Clemente, 5824",25924344435.0,Botafogo,2791.69,Border Collie,Feminino,Historiador,38,(21) 90023-9690
+Carla Rodrigues,"Rua Visconde de Souza Franco, 5986",78558339862.0,Lapa,4539.51,Basset Hound,Feminino,Desenvolvedor,28,(21) 98961-5330
+Pedro Pinto,"Rua do Pepino, 1101",28348016888.0,Recreio dos Bandeirantes,3671.41,Rottweiler,Masculino,Analista de Sistemas,53,(21) 92225-2045
+Eduardo Campos,"Rua Visconde de Souza Franco, 5652",82892496243.0,Lapa,9141.11,Pit Bull,Masculino,Desenvolvedor,58,(21) 99045-9826
+Joao Almeida,"Rua Humaita, 3045",96497872609.0,Humaita,3236.92,Boxer,Masculino,Historiador,40,(21) 97114-6785
+Joao Almeida,"Rua Senador Dantas, 4944",19232244176.0,Flamengo,6417.12,Bulldog,Masculino,Psicologo,68,(21) 91601-1986
+Felipe Oliveira,"Rua Gal. Osorio, 3697",52541525477.0,Cascadura,2987.12,Shiba Inu,Masculino,Publicitario,20,(21) 90962-6932
+Michele Araujo,"Avenida das Americas, 5710",28006277278.0,Barra da Tijuca,6244.01,Poodle,Feminino,Engenheiro,57,(21) 95123-9057
+Eduardo Campos,"Rua do Russel, 6066",82410917872.0,Gloria,4922.89,Labrador,Masculino,Fisioterapeuta,46,(21) 95979-9491
+Rafael Melo,"Rua Conde de Bonfim, 5037",70172877434.0,Tijuca,3619.76,Schnauzer,Masculino,Producao de Eventos,63,(21) 96068-3439
+Larissa Ferreira,"Rua Almirante Alexandrino, 3141",25930712437.0,Santa Teresa,7251.44,Schnauzer,Feminino,Ator,48,(21) 95782-5390
+Gabriel Rocha,"Rua do Bispo, 6139",68125159521.0,Rio Comprido,9121.95,Bulldog,Masculino,Professor,54,(21) 92006-6105
+Lucas Ferreira,"Rua Nelson Mandela, 8315",40484600075.0,Botafogo,1575.1,Shiba Inu,Masculino,Fisioterapeuta,56,(21) 95004-6548
+Marcelo Lima,"Rua Voluntarios da Patria, 3143",24284978020.0,Botafogo,9526.37,Pit Bull,Masculino,Engenheiro,58,(21) 92762-2795
+Pedro Pinto,"Rua Monte Alegre, 6888",19018352786.0,Santa Teresa,2983.6,Labrador,Masculino,Psicologo,68,(21) 96487-8331
+Daniele Souza,"Avenida Glaucio Gil, 300",89788360327.0,Recreio dos Bandeirantes,3336.51,Boxer,Feminino,Arquiteto,49,(21) 99820-6027
+Maria Luiza Silva,"Rua do Dende, 7576",87985910462.0,Recreio dos Bandeirantes,8241.07,Boxer,Feminino,Jornalista,72,(21) 96385-2188
+Mariana Lima,"Rua da Gloria, 3380",62583644172.0,Gloria,9168.0,Husky Siberiano,Feminino,Veterinario,63,(21) 90213-5252
+Amanda Carvalho,"Rua do Bispo, 5468",56921289433.0,Rio Comprido,3436.65,Border Collie,Feminino,Lider de Projeto,56,(21) 99904-7800
+Marcelo Lima,"Rua Farme de Amoedo, 5474",15870984733.0,Ipanema,2194.31,Husky Siberiano,Masculino,Farmaceutico,21,(21) 94179-9439
+Larissa Ferreira,"Rua Joaquim Nabuco, 4535",13042931205.0,Recreio dos Bandeirantes,7509.29,Basset Hound,Feminino,Arquiteto,40,(21) 98205-4825
+Michele Araujo,"Rua Joaquim Nabuco, 7035",88707784718.0,Recreio dos Bandeirantes,9645.04,Husky Siberiano,Feminino,Historiador,72,(21) 91244-5127
+Maria Luiza Silva,"Rua Clarimundo de Melo, 8589",17958572201.0,Tijuca,6116.42,Pit Bull,Feminino,Quimico,30,(21) 94286-6908
+Rodrigo Costa,"Rua Uruguai, 7438",41226375552.0,Tijuca,3230.56,Bulldog,Masculino,Padeiro,70,(21) 99118-6849
+Rodrigo Costa,"Rua Ataulfo de Paiva, 1900",70231554394.0,Leblon,9026.9,Schnauzer,Masculino,Terapeuta Ocupacional,26,(21) 97486-3310
+Diego Silva,"Rua Casemiro de Abreu, 901",60963467437.0,Cascadura,4596.2,Chihuahua,Masculino,Professor,18,(21) 98991-8485
+Camila Pereira,"Rua Silveira Martins, 5312",52113387249.0,Catete,5605.94,Maltes,Feminino,Enfermeiro,65,(21) 91771-8701
+Marcelo Lima,"Rua Barata Ribeiro, 6620",58111867737.0,Copacabana,9118.63,Beagle,Masculino,Psicologo,70,(21) 95016-4639
+Gustavo Moreira,"Praia de Botafogo, 8990",87231921941.0,Botafogo,2233.87,Cocker Spaniel,Masculino,Professor,70,(21) 91018-9185
+Thiago Souza,"Rua Pacheco Leao, 5491",66438745347.0,Jardim Botanico,3280.28,Labrador,Masculino,Padeiro,51,(21) 94112-7687
+Roberta Moreira,"Rua Monte Alegre, 1611",45850259446.0,Santa Teresa,3305.9,Boxer,Feminino,Publicitario,46,(21) 95653-4538
+Gabriela Rocha,"Rua do Anil, 9687",96656045040.0,Barra da Tijuca,9360.87,Husky Siberiano,Feminino,Jornalista,23,(21) 92124-2272
+Luana Campos,"Rua Garcia d'Avila, 9066",47935081818.0,Ipanema,6587.99,Pit Bull,Feminino,Advogado,40,(21) 90081-5317
+Juliana Costa,"Rua Almirante Alexandrino, 6624",28418917474.0,Santa Teresa,5199.22,Schnauzer,Feminino,Designer,19,(21) 93013-9629
+Marcelo Lima,"Rua Sao Clemente, 2509",12601011306.0,Botafogo,7701.06,Schnauzer,Masculino,Administrador,28,(21) 99863-7177
+Isabela Martins,"Rua Almirante Alexandrino, 4132",58728151302.0,Santa Teresa,2058.4,Maltes,Feminino,Engenheiro,22,(21) 91246-9738
+Ricardo Martins,"Rua Buarque de Macedo, 1564",74556155712.0,Vila Isabel,2846.0,Dachshund,Masculino,Diretor,63,(21) 90654-8131
+Eduardo Campos,"Rua Plinio Casado, 3371",15713802485.0,Cascadura,2182.45,Pug,Masculino,Farmaceutico,61,(21) 98449-4241
+Ricardo Martins,"Rua do Pepino, 8412",66593644175.0,Recreio dos Bandeirantes,9423.8,Poodle,Masculino,Antropologo,42,(21) 97030-7963
+Joao Almeida,"Rua Marquesa de Santos, 9495",52744604147.0,Jardim Botanico,6237.57,Pit Bull,Masculino,Padeiro,34,(21) 93341-6565
+Natalia Pinto,"Rua do Russel, 5851",74493675239.0,Gloria,8891.65,Pit Bull,Feminino,Designer,69,(21) 98251-2241
+Pedro Pinto,"Rua do Lavradio, 5281",76650983444.0,Lapa,1574.59,Maltes,Masculino,Personal Trainer,46,(21) 97259-7264
+Isabela Martins,"Avenida Vieira Souto, 1812",99389989416.0,Ipanema,5230.8,Dachshund,Feminino,Designer,56,(21) 97276-7125
+Daniel Araujo,"Rua Silveira Martins, 1242",72660801391.0,Catete,6758.74,Shih Tzu,Masculino,Biologo,50,(21) 98323-8076
+Vinicius Santos,"Rua Senador Dantas, 9525",55353268224.0,Flamengo,9699.16,Rottweiler,Masculino,Geografo,22,(21) 99739-7496
+Gustavo Moreira,"Avenida Delfim Moreira, 8591",18462980100.0,Leblon,1413.24,Beagle,Masculino,Desenvolvedor,40,(21) 93572-3752
+Gustavo Moreira,"Rua do Catete, 3697",63165249902.0,Flamengo,5318.92,Border Collie,Masculino,Professor,26,(21) 92555-3527
+Rafael Melo,"Rua Casemiro de Abreu, 8060",37344428317.0,Cascadura,6264.88,Basset Hound,Masculino,Artesao,39,(21) 92987-1800
+Diego Silva,"Rua Visconde de Piraja, 6585",85082327719.0,Ipanema,3301.16,Basset Hound,Masculino,Designer,42,(21) 96692-8524
+Isabela Martins,"Rua Paula Freitas, 711",90322628269.0,Copacabana,9031.89,Chihuahua,Feminino,Desenvolvedor,39,(21) 99119-3741
+Carlos Santos,"Rua Pacheco Leao, 5761",79851808735.0,Jardim Botanico,8832.0,Rottweiler,Masculino,Quimico,69,(21) 90844-1942
+Rafael Melo,"Rua Miguel Lemos, 2299",16226654242.0,Sao Conrado,6831.02,Yorkshire Terrier,Masculino,Antropologo,50,(21) 93778-6171
+Marcelo Lima,"Rua Bento Lisboa, 8716",20228017676.0,Humaita,5906.95,Chihuahua,Masculino,Quimico,32,(21) 99563-3357
+Juliana Costa,"Avenida Rio Branco, 8693",20139668302.0,Centro,7574.86,Husky Siberiano,Feminino,Biologo,71,(21) 91994-7943
+Maria Luiza Silva,"Rua Domingos Ferreira, 8544",87241303661.0,Cascadura,8398.06,Chihuahua,Feminino,Publicitario,36,(21) 99084-7872
+Marcelo Lima,"Rua do Rio Comprido, 7449",27752657827.0,Rio Comprido,4012.12,Labrador,Masculino,Professor,65,(21) 92777-4010
+Antonio Silva,"Rua Jardim Botanico, 5776",68365630541.0,Jardim Botanico,3548.48,Pug,Masculino,Desenvolvedor,62,(21) 90863-3890
+Gustavo Moreira,"Rua do Lavradio, 3282",49156578718.0,Catete,8144.68,Pug,Masculino,Veterinario,38,(21) 96912-5793
+Antonio Silva,"Avenida Vieira Souto, 3903",95351692195.0,Ipanema,4401.69,Chihuahua,Masculino,Dentista,53,(21) 98175-2051
+Natalia Pinto,"Avenida Vieira Souto, 570",27494686963.0,Ipanema,3351.59,Husky Siberiano,Feminino,Musico,70,(21) 99713-6173
+Luana Campos,"Rua do Catete, 2650",95826346215.0,Catete,4382.75,Cocker Spaniel,Feminino,Engenheiro,46,(21) 95854-8190
+Carla Rodrigues,"Rua Jardim Botanico, 132",96672160076.0,Jardim Botanico,7070.3,Border Collie,Feminino,Administrador,66,(21) 91706-5149
+Mariana Lima,"Rua do Catete, 7847",62317748017.0,Flamengo,7929.97,Pit Bull,Feminino,Biologo,41,(21) 92764-2496
+Felipe Oliveira,"Avenida Aquarela do Brasil, 6694",20631264758.0,Sao Conrado,6649.45,Golden Retriever,Masculino,Enfermeiro,45,(21) 99841-1775
+Juliana Costa,"Rua Felipe Cardoso, 7535",72452127031.0,Santa Teresa,9436.25,Dachshund,Feminino,Artesao,54,(21) 98515-8737
+Ana Beatriz Oliveira,"Rua Joao Lira, 6931",18609164819.0,Sao Conrado,9238.67,Boxer,Feminino,Designer,38,(21) 92257-4943
+Leandro Rodrigues,"Rua Humaita, 4560",78026000055.0,Humaita,8989.81,Beagle,Masculino,Producao de Eventos,27,(21) 95430-8251
+Michele Araujo,"Praia de Botafogo, 3770",83346269333.0,Botafogo,3069.79,Dachshund,Feminino,Medico,51,(21) 95615-3328
+Eduardo Campos,"Avenida Glaucio Gil, 4834",50695945979.0,Recreio dos Bandeirantes,7683.17,Shih Tzu,Masculino,Economista,56,(21) 93727-4935
+Ana Beatriz Oliveira,"Rua Voluntarios da Patria, 9301",14863189806.0,Botafogo,1875.59,Pit Bull,Feminino,Advogado,66,(21) 97445-1023
+Isabela Martins,"Rua Jardim Botanico, 9525",32874019482.0,Jardim Botanico,6071.6,Basset Hound,Feminino,Veterinario,28,(21) 91234-6593
+Antonio Silva,"Rua Senador Dantas, 1367",25682926981.0,Flamengo,4292.98,Maltes,Masculino,Producao de Eventos,50,(21) 94798-6146
+Natalia Pinto,"Rua Primeiro de Marco, 9502",89195434614.0,Centro,2516.58,Chihuahua,Feminino,Desenvolvedor,26,(21) 97507-5367
+Lucas Ferreira,"Rua Domingos Ferreira, 8774",85411117450.0,Cascadura,4602.97,Shiba Inu,Masculino,Advogado,32,(21) 99361-6811
+Carlos Santos,"Rua Uruguai, 132",60638382740.0,Tijuca,6535.34,Beagle,Masculino,Antropologo,39,(21) 90622-6451
+Bruno Alves,"Rua do Dende, 802",41379924315.0,Recreio dos Bandeirantes,9227.76,Pit Bull,Masculino,Professor,30,(21) 97872-9510
+Leandro Rodrigues,"Rua Senador Dantas, 96",84862018952.0,Flamengo,1500.83,Border Collie,Masculino,Publicitario,37,(21) 96638-3497
+Pedro Pinto,"Rua Joaquim Nabuco, 4974",76939769541.0,Recreio dos Bandeirantes,3195.68,Husky Siberiano,Masculino,Chef de Cozinha,50,(21) 93871-4167
+Vinicius Santos,"Avenida Ayrton Senna, 2865",41169419178.0,Barra da Tijuca,2085.71,Shiba Inu,Masculino,Producao de Eventos,21,(21) 91429-2015
+Fernanda Santos,"Rua Buarque de Macedo, 5691",77721774438.0,Vila Isabel,9117.06,Shih Tzu,Feminino,Professor,49,(21) 90141-6368
+Eduardo Campos,"Rua do Lavradio, 4586",95476431584.0,Catete,4591.43,Shih Tzu,Masculino,Dentista,58,(21) 94940-4570
+Vinicius Santos,"Rua Buarque de Macedo, 1950",34268128921.0,Vila Isabel,8819.45,Maltes,Masculino,Diretor,46,(21) 96092-5973
+Maria Luiza Silva,"Rua General Artigas, 5263",31861429742.0,Leblon,6961.65,Chihuahua,Feminino,Medico,22,(21) 96563-8067
+Antonio Silva,"Rua Pacheco Leao, 2188",72517173259.0,Jardim Botanico,1661.28,Labrador,Masculino,Administrador,20,(21) 92484-1928
+Luana Campos,"Avenida Glaucio Gil, 4748",91804815328.0,Recreio dos Bandeirantes,2897.65,Golden Retriever,Feminino,Arquiteto,57,(21) 90741-4454
+Thiago Souza,"Rua Buarque de Macedo, 8700",77198783834.0,Vila Isabel,6788.97,Schnauzer,Masculino,Ator,62,(21) 90315-3869
+Gabriela Rocha,"Avenida Rio Branco, 1175",66956718652.0,Centro,7161.34,Beagle,Feminino,Engenheiro,64,(21) 92419-8276
+Leandro Rodrigues,"Rua Paissandu, 3586",43847379531.0,Flamengo,8288.68,Bulldog,Masculino,Chef de Cozinha,62,(21) 94227-6471
+Bruna Alves,"Rua dos Arcos, 3156",72339112090.0,Lapa,3028.45,Chihuahua,Feminino,Diretor,25,(21) 93300-8482
+Daniel Araujo,"Rua Clarimundo de Melo, 2263",78001709561.0,Tijuca,9099.12,Chihuahua,Masculino,Jornalista,58,(21) 97134-3080
+Joao Almeida,"Praia de Botafogo, 4703",51157897291.0,Botafogo,7568.23,Border Collie,Masculino,Diretor,22,(21) 94326-4917
+Natalia Pinto,"Rua Bartolomeu Mitre, 7011",33506491970.0,Leblon,2608.12,Poodle,Feminino,Terapeuta Ocupacional,18,(21) 90783-8448
+Lucas Ferreira,"Avenida Rio Branco, 8799",59591558819.0,Centro,2050.96,Rottweiler,Masculino,Geografo,37,(21) 99377-4621
+Patricia Melo,0,60761623860.0,Flamengo,6387.94,Poodle,Feminino,Publicitario,29,(21) 96606-9277
+Joao Almeida,"Rua Ataulfo de Paiva, 8673",88572592517.0,Leblon,7085.91,Maltes,Masculino,Advogado,52,(21) 95421-5463
+Antonio Silva,"Rua Clarimundo de Melo, 6601",68318343563.0,Tijuca,4220.17,Boxer,Masculino,Terapeuta Ocupacional,34,(21) 99455-2905
+Viviane Mendes,"Rua do Rio Comprido, 362",76979002342.0,Rio Comprido,3456.41,Dachshund,Feminino,Personal Trainer,31,(21) 96234-5235
+Roberta Moreira,"Avenida Vieira Souto, 7809",95854116923.0,Ipanema,3240.26,Maltes,Feminino,Arquiteto,59,(21) 98171-8394
+Carla Rodrigues,"Rua Barata Ribeiro, 8893",42421108094.0,Copacabana,2337.09,Husky Siberiano,Feminino,Contador,27,(21) 90041-7724
+Camila Pereira,"Rua Paissandu, 1857",40231964359.0,Flamengo,5509.21,Schnauzer,Feminino,Analista de Sistemas,69,(21) 95293-8551
+Roberta Moreira,"Avenida Rio Branco, 4131",37440568939.0,Centro,8631.87,Chihuahua,Feminino,Lider de Projeto,35,(21) 91586-8279
+Eduardo Campos,"Rua Heitor de Silva Costa, 5308",65379970116.0,Vila Isabel,9227.3,Labrador,Masculino,Chef de Cozinha,71,(21) 94812-2029
+Gabriela Rocha,"Rua do Catete, 96",60404182295.0,Flamengo,2483.97,Labrador,Feminino,Gerente,56,(21) 90649-5615
+Gustavo Moreira,"Rua Jardim Botanico, 1110",92056233531.0,Jardim Botanico,1874.27,Bulldog,Masculino,Musico,40,(21) 97493-8757
+Thiago Souza,"Rua Barao de Sao Francisco, 6144",52549097274.0,Humaita,9334.51,Maltes,Masculino,Contador,23,(21) 94210-4928
+Gustavo Moreira,"Rua Humaita, 4515",82849884259.0,Humaita,9141.88,Golden Retriever,Masculino,Veterinario,41,(21) 96325-7687
+Gabriel Rocha,"Rua Domingos Ferreira, 6976",42600077135.0,Cascadura,5956.48,Maltes,Masculino,Antropologo,45,(21) 94717-6357
+Ana Beatriz Oliveira,"Rua da Assembleia, 3327",57304512282.0,Centro,9916.86,Pug,Feminino,Ator,45,(21) 98082-8713
+Patricia Melo,"Rua Felipe Cardoso, 3929",25368948762.0,Santa Teresa,3206.66,Boxer,Feminino,Personal Trainer,49,(21) 92141-7553
+Isabela Martins,"Rua Joaquim Nabuco, 8762",11938815347.0,Recreio dos Bandeirantes,1786.15,Dachshund,Feminino,Advogado,32,(21) 96029-5598
+Juliana Costa,"Rua General Artigas, 1956",24498329940.0,Leblon,4877.21,Beagle,Feminino,Engenheiro,38,(21) 90008-2424
+Carlos Santos,"Rua do Lavradio, 1793",66550348765.0,Lapa,7497.06,Shih Tzu,Masculino,Professor,67,(21) 96701-4245
+Antonio Silva,"Rua Mem de Sa, 7034",64450104934.0,Lapa,4298.69,Labrador,Masculino,Professor,61,(21) 94805-5073
+Rafael Melo,"Rua Marquesa de Santos, 5161",62810477698.0,Jardim Botanico,2153.06,Dachshund,Masculino,Musico,34,(21) 97431-1536
+Joao Almeida,"Rua Senador Dantas, 7391",62044177633.0,Flamengo,4492.29,Bulldog,Masculino,Dentista,31,(21) 94857-5079
+Patricia Melo,"Rua Conde de Iraja, 1014",83011302999.0,Catete,5673.32,Pit Bull,Feminino,Farmaceutico,33,(21) 90710-1728
+Roberta Moreira,"Rua do Ouvidor, 2118",69581936522.0,Centro,1695.23,Border Collie,Feminino,Psicologo,71,(21) 91893-3581
+Carla Rodrigues,"Rua Casemiro de Abreu, 9546",96620755665.0,Cascadura,9038.99,Pug,Feminino,Jornalista,23,(21) 93415-3583
+Ricardo Martins,"Rua Paula Freitas, 5727",86689014601.0,Copacabana,2934.34,Boxer,Masculino,Arquiteto,64,(21) 94082-4122
+Juliana Costa,"Rua do Catete, 1745",32705469210.0,Catete,9169.02,Shih Tzu,Feminino,Dentista,54,(21) 92088-8773
+Rodrigo Costa,"Avenida Aquarela do Brasil, 8377",75171289322.0,Sao Conrado,8729.24,Golden Retriever,Masculino,Contador,45,(21) 91562-8942
+Daniel Araujo,"Rua Visconde de Souza Franco, 861",71217353328.0,Lapa,7591.17,Border Collie,Masculino,Personal Trainer,33,(21) 92239-7373
+Thiago Souza,"Rua do Ouvidor, 7080",55113574658.0,Gloria,7076.65,Cocker Spaniel,Masculino,Medico,49,(21) 90898-3201
+Daniel Araujo,"Avenida das Americas, 2507",10352081371.0,Barra da Tijuca,7792.89,Shih Tzu,Masculino,Antropologo,44,(21) 97833-8034
+Tatiane Almeida,"Avenida Vieira Souto, 5562",55159309411.0,Ipanema,6282.49,Shiba Inu,Feminino,Arquiteto,24,(21) 92198-4347
+Tatiane Almeida,"Rua Mem de Sa, 4202",95887226768.0,Lapa,6043.69,Husky Siberiano,Feminino,Diretor,46,(21) 90599-8996
+Patricia Melo,"Rua General Artigas, 8796",60368251984.0,Leblon,8295.17,Maltes,Feminino,Biologo,68,(21) 92777-7401
+Roberta Moreira,"Rua Garcia d'Avila, 3004",79262070905.0,Ipanema,1409.02,Boxer,Feminino,Dentista,27,(21) 95288-2148
+Camila Pereira,"Rua Clarimundo de Melo, 9667",68793929799.0,Tijuca,9257.4,Maltes,Feminino,Dentista,37,(21) 96657-1397
+Daniel Araujo,"Rua dos Arcos, 1915",48502861441.0,Lapa,4666.3,Shiba Inu,Masculino,Publicitario,50,(21) 94048-3131
+Joao Almeida,"Praia de Botafogo, 3319",38304097320.0,Botafogo,8049.47,Shih Tzu,Masculino,Gerente,22,(21) 95525-3434
+Juliana Costa,"Rua Senador Dantas, 1241",18537812271.0,Flamengo,8514.84,Basset Hound,Feminino,Fisioterapeuta,49,(21) 94050-4084
+Ricardo Martins,"Rua Ary Schiavo, 6632",81246604848.0,Barra da Tijuca,9218.74,Poodle,Masculino,Dentista,55,(21) 95620-8256
+Carla Rodrigues,"Rua 28 de Setembro, 5870",46311726072.0,Vila Isabel,9705.85,Poodle,Feminino,Musico,70,(21) 98790-3729
+Camila Pereira,"Avenida das Americas, 2437",62781676823.0,Barra da Tijuca,8326.8,Pug,Feminino,Personal Trainer,38,(21) 90185-6661
+Antonio Silva,"Rua do Catete, 5722",28441785526.0,Catete,9314.49,Chihuahua,Masculino,Personal Trainer,30,(21) 98256-3000
+Gabriel Rocha,"Avenida Delfim Moreira, 8159",54427219959.0,Leblon,2498.81,Border Collie,Masculino,Publicitario,45,(21) 91901-3332
+Lucas Ferreira,"Rua Primeiro de Marco, 1167",24846083508.0,Centro,3509.75,Husky Siberiano,Masculino,Artesao,64,(21) 92136-5751
+Andre Carvalho,"Rua Uruguai, 5301",72270626773.0,Tijuca,7370.47,Chihuahua,Masculino,Biologo,32,(21) 99147-1024
+Daniel Araujo,"Rua Conde de Bonfim, 7536",64318746136.0,Tijuca,3277.16,Boxer,Masculino,Administrador,48,(21) 93366-4541
+Isabela Martins,"Rua do Catete, 600",79522565622.0,Catete,6016.16,Golden Retriever,Feminino,Padeiro,56,(21) 98455-7445
+Larissa Ferreira,"Avenida Delfim Moreira, 3604",61474654312.0,Leblon,5727.83,Pit Bull,Feminino,Professor,36,(21) 97247-2405
+Rafael Melo,"Rua Joao Lira, 6505",73210671940.0,Sao Conrado,7117.85,Cocker Spaniel,Masculino,Quimico,69,(21) 90183-7168
+Marcelo Lima,"Rua Nelson Mandela, 452",89933112124.0,Botafogo,3142.45,Maltes,Masculino,Historiador,71,(21) 92510-2206
+Felipe Oliveira,"Rua Sao Clemente, 6342",25340200984.0,Humaita,8455.19,Beagle,Masculino,Personal Trainer,30,(21) 99272-2486
+Vinicius Santos,"Rua Barao de Sao Francisco, 6369",22880171345.0,Humaita,6219.76,Cocker Spaniel,Masculino,Diretor,47,(21) 90626-8797
+Patricia Melo,"Rua Siqueira Campos, 1745",19395841634.0,Copacabana,2087.53,Chihuahua,Feminino,Arquiteto,35,(21) 97505-7656
+Natalia Pinto,"Rua Barao de Sao Francisco, 730",26611412703.0,Humaita,6281.27,Schnauzer,Feminino,Psicologo,29,(21) 90494-9606
+Natalia Pinto,"Rua do Ouvidor, 7847",98873957091.0,Centro,6755.73,Border Collie,Feminino,Producao de Eventos,63,(21) 92670-5446
+Camila Pereira,"Rua Barao de Santa Marta, 3002",40267039608.0,Rio Comprido,4444.14,Bulldog,Feminino,Engenheiro,56,(21) 93484-9166
+Ana Beatriz Oliveira,"Rua Domingos Ferreira, 7186",47920693910.0,Cascadura,6395.94,Yorkshire Terrier,Feminino,Designer,33,(21) 90911-9525
+Gabriel Rocha,"Rua Visconde de Souza Franco, 1526",83229725400.0,Lapa,9777.31,Boxer,Masculino,Artesao,21,(21) 94287-2459
+Bruna Alves,"Avenida Vieira Souto, 2318",57104001648.0,Ipanema,5847.06,Schnauzer,Feminino,Contador,70,(21) 92955-1236
+Fernanda Santos,"Rua Conde de Bonfim, 5302",71131231742.0,Tijuca,9841.46,Pug,Feminino,Professor,58,(21) 92658-1349
+Camila Pereira,"Rua Marquesa de Santos, 2897",10913387650.0,Jardim Botanico,2454.14,Schnauzer,Feminino,Padeiro,21,(21) 94445-4462
+Diego Silva,"Rua do Pepino, 9950",85120978226.0,Recreio dos Bandeirantes,7760.22,Chihuahua,Masculino,Geografo,61,(21) 94469-9762
+Juliana Costa,"Rua General Glicerio, 6161",26643375328.0,Rio Comprido,6523.16,Cocker Spaniel,Feminino,Publicitario,56,(21) 95657-6664
+Natalia Pinto,"Rua Ary Schiavo, 1963",85320725701.0,Barra da Tijuca,2992.85,Border Collie,Feminino,Engenheiro,31,(21) 95613-2531
+Viviane Mendes,"Rua do Rio Comprido, 5846",47423051096.0,Rio Comprido,9230.68,Rottweiler,Feminino,Advogado,28,(21) 92211-3660
+Pedro Pinto,"Rua Senador Dantas, 3535",12947298098.0,Flamengo,8042.36,Maltes,Masculino,Contador,66,(21) 96073-2571
+Joao Almeida,"Rua Joaquim Nabuco, 8133",51617355372.0,Recreio dos Bandeirantes,8592.93,Golden Retriever,Masculino,Medico,70,(21) 94299-6815
+Bruna Alves,"Rua Clarimundo de Melo, 9082",47492586495.0,Tijuca,6716.98,Husky Siberiano,Feminino,Designer,70,(21) 99804-7726
+Marcelo Lima,"Rua Siqueira Campos, 754",39593794435.0,Copacabana,4424.08,Border Collie,Masculino,Dentista,40,(21) 91126-5887
+Vinicius Santos,"Rua Lopes Quintas, 7037",57894929181.0,Jardim Botanico,5052.74,Pit Bull,Masculino,Terapeuta Ocupacional,37,(21) 95989-5499
+Carla Rodrigues,"Rua Barao de Sao Francisco, 6497",12598778565.0,Humaita,5703.69,Rottweiler,Feminino,Biologo,67,(21) 97306-3829
+Daniele Souza,"Rua Pacheco Leao, 8263",98059744227.0,Jardim Botanico,9966.73,Pug,Feminino,Historiador,49,(21) 98556-1140
+Viviane Mendes,"Rua Domingos Ferreira, 5901",83208135318.0,Cascadura,3054.0,Dachshund,Feminino,Contador,57,(21) 98352-8714
+Amanda Carvalho,"Avenida Delfim Moreira, 1189",23474463229.0,Leblon,9466.88,Bulldog,Feminino,Diretor,63,(21) 96094-6781
+Daniel Araujo,"Rua do Lavradio, 9683",45581437442.0,Catete,9519.22,Bulldog,Masculino,Terapeuta Ocupacional,55,(21) 90583-9324
+Patricia Melo,"Rua Clarimundo de Melo, 6304",26964809344.0,Tijuca,5842.5,Boxer,Feminino,Diretor,27,(21) 99511-1257
+Amanda Carvalho,"Rua da Gloria, 7732",41989199116.0,Gloria,8938.29,Beagle,Feminino,Psicologo,31,(21) 92757-4500
+Amanda Carvalho,"Rua Gal. Osorio, 767",49677025940.0,Cascadura,8375.67,Rottweiler,Feminino,Professor,38,(21) 97607-6094
+Ana Beatriz Oliveira,"Rua Barao de Santa Marta, 8591",63061872783.0,Rio Comprido,4998.15,Boxer,Feminino,Engenheiro,54,(21) 97712-6064
+Maria Luiza Silva,"Rua Heitor de Silva Costa, 7073",17601109064.0,Vila Isabel,7724.26,Maltes,Feminino,Producao de Eventos,32,(21) 90484-9016
+Rodrigo Costa,"Rua Gal. Osorio, 6465",93175511735.0,Cascadura,1963.4,Border Collie,Masculino,Medico,66,(21) 93219-1098
+Ricardo Martins,"Avenida Rio Branco, 7944",33388000559.0,Centro,8110.43,Rottweiler,Masculino,Musico,69,(21) 90199-6760
+Rodrigo Costa,"Rua Humaita, 6439",95095487424.0,Humaita,6878.37,Husky Siberiano,Masculino,Arquiteto,37,(21) 93012-4464
+Leandro Rodrigues,"Rua do Dende, 6076",53362022199.0,Recreio dos Bandeirantes,7082.09,Boxer,Masculino,Musico,60,(21) 92496-8049
+Larissa Ferreira,"Rua Almirante Alexandrino, 2717",64384049605.0,Santa Teresa,8769.93,Bulldog,Feminino,Veterinario,19,(21) 99880-8168
+Pedro Pinto,"Avenida Delfim Moreira, 1469",94262668252.0,Leblon,3763.85,Poodle,Masculino,Personal Trainer,43,(21) 90736-9273
+Diego Silva,"Rua Barata Ribeiro, 2899",74113417964.0,Copacabana,4225.24,Beagle,Masculino,Terapeuta Ocupacional,25,(21) 90331-7690
+Carla Rodrigues,"Rua dos Arcos, 9020",41687450558.0,Lapa,3354.11,Boxer,Feminino,Geografo,57,(21) 96420-9500
+Juliana Costa,"Rua Estrela, 1372",18269086468.0,Santa Teresa,9026.13,Bulldog,Feminino,Enfermeiro,33,(21) 99062-2866
+Ricardo Martins,"Rua Bento Lisboa, 1921",43758581787.0,Humaita,9848.1,Poodle,Masculino,Engenheiro,36,(21) 90770-4728
+Ana Beatriz Oliveira,"Avenida Vieira Souto, 5054",38876376119.0,Ipanema,9254.14,Dachshund,Feminino,Gerente,54,(21) 94751-8625
+Pedro Pinto,"Rua Barata Ribeiro, 2269",85967479014.0,Copacabana,6928.74,Border Collie,Masculino,Veterinario,37,(21) 93164-6457
+Gabriela Rocha,"Rua Uruguai, 1922",43718762906.0,Tijuca,2747.15,Yorkshire Terrier,Feminino,Biologo,46,(21) 95379-1791
+Felipe Oliveira,"Rua Mem de Sa, 7792",89475872867.0,Lapa,4936.55,Cocker Spaniel,Masculino,Contador,57,(21) 98479-9742
+Carlos Santos,"Rua Barata Ribeiro, 8357",54909012210.0,Copacabana,9329.2,Border Collie,Masculino,Padeiro,20,(21) 91945-3851
+Daniele Souza,"Rua Ary Schiavo, 2409",58935770789.0,Barra da Tijuca,8198.3,Maltes,Feminino,Advogado,54,(21) 91398-2530
+Gabriela Rocha,"Avenida Glaucio Gil, 4838",18948176840.0,Recreio dos Bandeirantes,4134.65,Pug,Feminino,Publicitario,44,(21) 91976-5457
+Rodrigo Costa,"Rua do Rio Comprido, 3442",50447276057.0,Rio Comprido,5753.45,Husky Siberiano,Masculino,Economista,62,(21) 93853-5582
+Felipe Oliveira,"Rua do Catete, 8474",96555904577.0,Catete,4805.38,Beagle,Masculino,Antropologo,53,(21) 91870-9910
+Isabela Martins,"Rua do Bispo, 4415",92000212374.0,Rio Comprido,6212.93,Shih Tzu,Feminino,Designer,33,(21) 91230-3653
+Maria Luiza Silva,"Avenida Delfim Moreira, 9721",40626128550.0,Leblon,1371.94,Yorkshire Terrier,Feminino,Enfermeiro,52,(21) 99297-7570
+Mariana Lima,"Praia de Botafogo, 833",53618989718.0,Botafogo,6453.21,Yorkshire Terrier,Feminino,Analista de Sistemas,62,(21) 99645-5662
+Viviane Mendes,"Rua General Glicerio, 1042",19878949009.0,Rio Comprido,7499.62,Basset Hound,Feminino,Personal Trainer,25,(21) 97547-6162
+Patricia Melo,"Rua Candido Mendes, 3440",40343335872.0,Gloria,9803.51,Yorkshire Terrier,Feminino,Publicitario,72,(21) 94982-7990
+Gabriela Rocha,"Rua Paula Freitas, 9490",96204647088.0,Copacabana,3765.53,Labrador,Feminino,Designer,25,(21) 98331-5380
+Juliana Costa,"Rua do Ouvidor, 4416",87514267570.0,Centro,5696.91,Schnauzer,Feminino,Terapeuta Ocupacional,26,(21) 93487-3112
+Vinicius Santos,"Rua Conde de Bonfim, 4336",31764701211.0,Tijuca,5519.45,Boxer,Masculino,Veterinario,64,(21) 98365-8539
+Maria Luiza Silva,"Rua Marques de Abrantes, 190",94424031910.0,Flamengo,8214.51,Boxer,Feminino,Lider de Projeto,35,(21) 97697-6338
+Rodrigo Costa,"Rua Uruguai, 9577",29007345848.0,Tijuca,9199.96,Rottweiler,Masculino,Professor,65,(21) 90384-1884
+Antonio Silva,"Rua do Lavradio, 3337",86518570189.0,Catete,6961.96,Shih Tzu,Masculino,Psicologo,46,(21) 91070-1962
+Fernanda Santos,"Rua 28 de Setembro, 3996",98290296608.0,Vila Isabel,8974.04,Bulldog,Feminino,Farmaceutico,43,(21) 95173-3356
+Michele Araujo,"Rua do Lavradio, 1735",17842018439.0,Catete,9307.66,Husky Siberiano,Feminino,Analista de Sistemas,26,(21) 98356-8674
+Carlos Santos,"Rua Silveira Martins, 6689",94672607162.0,Catete,3590.85,Shih Tzu,Masculino,Publicitario,47,(21) 95589-2018
+Daniele Souza,"Rua Felipe Cardoso, 1378",30947887393.0,Santa Teresa,4197.67,Yorkshire Terrier,Feminino,Professor,55,(21) 92575-4008
+Rafael Melo,"Rua do Ouvidor, 9010",61992728806.0,Gloria,7125.89,Bulldog,Masculino,Engenheiro,57,(21) 98735-7407
+Marcelo Lima,"Rua Humaita, 4062",23862655598.0,Humaita,1979.4,Cocker Spaniel,Masculino,Arquiteto,45,(21) 94624-8932
+Natalia Pinto,"Rua do Dende, 8883",86611505338.0,Recreio dos Bandeirantes,4609.24,Poodle,Feminino,Veterinario,26,(21) 97885-6516
+Viviane Mendes,"Avenida Aquarela do Brasil, 6524",81274085046.0,Sao Conrado,9534.51,Chihuahua,Feminino,Psicologo,25,(21) 95676-1545
+Daniele Souza,"Rua do Ouvidor, 9491",52663761697.0,Centro,2606.55,Yorkshire Terrier,Feminino,Enfermeiro,50,(21) 93372-6027
+Bruna Alves,"Rua General Glicerio, 7795",75282912664.0,Rio Comprido,6016.94,Shih Tzu,Feminino,Advogado,57,(21) 98791-1319
+Isabela Martins,"Rua Visconde de Souza Franco, 8285",29966733438.0,Lapa,6464.54,Pit Bull,Feminino,Analista de Sistemas,60,(21) 95469-9724
+Mariana Lima,"Avenida Atlantica, 3344",63938651949.0,Copacabana,6686.06,Boxer,Feminino,Gerente,49,(21) 99657-2880
+Carla Rodrigues,"Rua Estrela, 8135",57014558086.0,Santa Teresa,9432.11,Border Collie,Feminino,Ator,43,(21) 98754-2243
+Amanda Carvalho,"Avenida Rio Branco, 6173",74102206969.0,Centro,4049.93,Husky Siberiano,Feminino,Analista de Sistemas,19,(21) 91822-6745
+Carla Rodrigues,"Rua Silveira Martins, 4787",50107016257.0,Catete,1774.92,Maltes,Feminino,Analista de Sistemas,53,(21) 91692-2138
+Carla Rodrigues,"Rua Visconde de Piraja, 1245",53282449268.0,Ipanema,9921.85,Cocker Spaniel,Feminino,Psicologo,21,(21) 91911-7276
+Lucas Ferreira,"Rua Candido Mendes, 6379",53608403665.0,Gloria,3171.17,Bulldog,Masculino,Advogado,34,(21) 98049-5064
+Rafael Melo,"Rua 28 de Setembro, 9623",80128723855.0,Vila Isabel,5956.95,Pug,Masculino,Ator,18,(21) 96103-1762
+Andre Carvalho,"Rua do Lavradio, 8454",34390773150.0,Lapa,6204.31,Shih Tzu,Masculino,Dentista,51,(21) 96231-9499
+Fernanda Santos,"Avenida Ayrton Senna, 9246",43640426958.0,Barra da Tijuca,8694.81,Chihuahua,Feminino,Veterinario,68,(21) 91132-1378
+Marcelo Lima,"Rua Gal. Osorio, 6875",78708901231.0,Cascadura,8768.87,Poodle,Masculino,Biologo,63,(21) 90548-3281
+Marcelo Lima,"Rua Clarimundo de Melo, 5009",67105467451.0,Tijuca,4394.59,Basset Hound,Masculino,Dentista,53,(21) 91314-6008
+Andre Carvalho,"Rua Marques de Abrantes, 6122",95342457336.0,Flamengo,1764.46,Cocker Spaniel,Masculino,Biologo,55,(21) 93780-1892
+Marcelo Lima,"Rua Barao de Santa Marta, 6448",54843426304.0,Rio Comprido,9637.2,Husky Siberiano,Masculino,Desenvolvedor,56,(21) 95211-3576
+Patricia Melo,"Rua do Bispo, 398",97947092115.0,Rio Comprido,2460.46,Poodle,Feminino,Ator,61,(21) 97249-3048
+Rodrigo Costa,"Rua Almirante Alexandrino, 683",92853098849.0,Santa Teresa,2428.65,Basset Hound,Masculino,Analista de Sistemas,43,(21) 93246-8364
+Leandro Rodrigues,"Rua da Gloria, 378",28142366873.0,Gloria,8883.33,Basset Hound,Masculino,Administrador,37,(21) 92352-4416
+Amanda Carvalho,"Rua Visconde de Piraja, 4459",44261964821.0,Ipanema,8501.59,Maltes,Feminino,Veterinario,69,(21) 95494-3432
+Viviane Mendes,"Rua do Catete, 7147",69582777642.0,Flamengo,2591.46,Boxer,Feminino,Lider de Projeto,45,(21) 91197-5561
+Diego Silva,"Rua Gal. Osorio, 397",76471291738.0,Cascadura,5969.31,Golden Retriever,Masculino,Economista,29,(21) 98284-4521
+Daniel Araujo,"Rua Casemiro de Abreu, 2782",58007833122.0,Cascadura,7520.88,Golden Retriever,Masculino,Diretor,38,(21) 99419-5255
+Fernanda Santos,"Rua Paissandu, 198",21949558537.0,Flamengo,2620.45,Pug,Feminino,Gerente,70,(21) 97438-8302
+Felipe Oliveira,"Avenida Atlantica, 6263",16600360839.0,Copacabana,2099.22,Shih Tzu,Masculino,Lider de Projeto,67,(21) 97913-1691
+Juliana Costa,"Rua Pacheco Leao, 6232",85221269534.0,Jardim Botanico,8053.33,Husky Siberiano,Feminino,Antropologo,72,(21) 99363-7177
+Ana Beatriz Oliveira,"Avenida Aquarela do Brasil, 4846",20520485188.0,Sao Conrado,5091.99,Poodle,Feminino,Gerente,71,(21) 97934-4202
+Andre Carvalho,"Rua Candido Mendes, 2376",94307015443.0,Gloria,9631.88,Basset Hound,Masculino,Musico,22,(21) 97007-5782
+Fernanda Santos,"Praia de Botafogo, 6225",71022038819.0,Botafogo,1434.64,Golden Retriever,Feminino,Padeiro,27,(21) 90233-2506
+Lucas Ferreira,"Rua do Dende, 3144",52265600289.0,Recreio dos Bandeirantes,7099.65,Husky Siberiano,Masculino,Padeiro,36,(21) 97065-5259
+Bruno Alves,"Rua do Russel, 2295",21997099172.0,Gloria,5179.76,Chihuahua,Masculino,Publicitario,31,(21) 96463-8958
+Marcelo Lima,"Rua Plinio Casado, 428",81308453909.0,Cascadura,5542.27,Dachshund,Masculino,Antropologo,34,(21) 97711-1667
+Gustavo Moreira,"Rua Jardim Botanico, 3388",81317190575.0,Jardim Botanico,1758.47,Rottweiler,Masculino,Designer,45,(21) 99869-1067
+Patricia Melo,"Rua Marques de Abrantes, 102",30463820604.0,Flamengo,8096.7,Chihuahua,Feminino,Historiador,56,(21) 93270-3694
+Vinicius Santos,"Rua Silveira Martins, 7377",82692493224.0,Catete,8270.3,Maltes,Masculino,Engenheiro,53,(21) 98381-5118
+Lucas Ferreira,"Avenida Vieira Souto, 4674",43816817518.0,Ipanema,2921.81,Husky Siberiano,Masculino,Dentista,40,(21) 96230-5766
+Antonio Silva,"Rua Jardim Botanico, 9685",83656130769.0,Jardim Botanico,7765.65,Basset Hound,Masculino,Musico,48,(21) 93213-8406
+Carlos Santos,"Rua Sao Clemente, 2180",62746617702.0,Humaita,7174.52,Yorkshire Terrier,Masculino,Farmaceutico,35,(21) 94728-4831
+Eduardo Campos,"Rua Ary Schiavo, 4320",13994910851.0,Barra da Tijuca,9137.47,Yorkshire Terrier,Masculino,Enfermeiro,56,(21) 99698-7671
+Andre Carvalho,"Rua Senador Dantas, 7511",53210654042.0,Flamengo,6522.55,Chihuahua,Masculino,Padeiro,47,(21) 92189-4727
+Gustavo Moreira,"Rua Ataulfo de Paiva, 2379",30940516520.0,Leblon,5108.96,Maltes,Masculino,Chef de Cozinha,71,(21) 93272-8690
+Antonio Silva,"Rua Ary Schiavo, 6043",79185875237.0,Barra da Tijuca,2153.83,Pug,Masculino,Enfermeiro,23,(21) 95115-7560
+Juliana Costa,"Rua Miguel Lemos, 7495",40187767943.0,Sao Conrado,3389.53,Border Collie,Feminino,Ator,18,(21) 92124-4257
+Eduardo Campos,"Rua Bartolomeu Mitre, 4170",41054745988.0,Leblon,3877.56,Bulldog,Masculino,Diretor,46,(21) 98385-6377
+Daniele Souza,"Rua do Anil, 1696",17012390278.0,Barra da Tijuca,8434.86,Shih Tzu,Feminino,Publicitario,59,(21) 94588-2417
+Vinicius Santos,"Rua Visconde de Souza Franco, 304",51425425451.0,Lapa,9711.43,Golden Retriever,Masculino,Diretor,33,(21) 92067-6921
+Daniele Souza,"Avenida Ayrton Senna, 9328",51448052659.0,Barra da Tijuca,8894.75,Rottweiler,Feminino,Engenheiro,67,(21) 99689-6413
+Leandro Rodrigues,"Rua da Gloria, 811",40004780627.0,Gloria,5519.97,Shiba Inu,Masculino,Enfermeiro,60,(21) 91565-4501
+Viviane Mendes,"Rua Jardim Botanico, 982",55213252523.0,Jardim Botanico,4744.09,Cocker Spaniel,Feminino,Artesao,37,(21) 97752-1102
+Eduardo Campos,"Rua General Glicerio, 1673",56664173031.0,Rio Comprido,8462.55,Yorkshire Terrier,Masculino,Farmaceutico,59,(21) 92614-9003
+Gabriel Rocha,"Rua Clarimundo de Melo, 5106",37128158147.0,Tijuca,6623.65,Labrador,Masculino,Enfermeiro,31,(21) 91633-3157
+Maria Luiza Silva,"Rua Visconde de Piraja, 304",94115569965.0,Ipanema,9010.92,Golden Retriever,Feminino,Farmaceutico,44,(21) 94283-8282
+Gabriel Rocha,"Avenida Atlantica, 1332",26324645339.0,Copacabana,9524.91,Chihuahua,Masculino,Producao de Eventos,52,(21) 95970-2822
+Fernanda Santos,"Rua Ataulfo de Paiva, 9632",63729849887.0,Leblon,8827.45,Beagle,Feminino,Terapeuta Ocupacional,66,(21) 93470-6917
+Eduardo Campos,"Rua Conde de Iraja, 3989",80932745160.0,Catete,2188.89,Border Collie,Masculino,Padeiro,57,(21) 96995-4209
+Amanda Carvalho,"Rua da Gloria, 7367",70225636414.0,Gloria,6697.49,Husky Siberiano,Feminino,Contador,44,(21) 96012-2246
+Rodrigo Costa,"Rua Monte Alegre, 2707",65903744177.0,Santa Teresa,3068.92,Cocker Spaniel,Masculino,Economista,23,(21) 94868-5616
+Andre Carvalho,"Rua 28 de Setembro, 1642",93822618000.0,Vila Isabel,5636.75,Labrador,Masculino,Medico,28,(21) 93265-2856
+Roberta Moreira,"Rua Estrela, 6866",55536752750.0,Santa Teresa,3408.65,Pug,Feminino,Veterinario,30,(21) 97397-3829
+Lucas Ferreira,"Rua do Catete, 5193",83365482521.0,Catete,5990.29,Cocker Spaniel,Masculino,Analista de Sistemas,25,(21) 93794-4370
+Juliana Costa,"Avenida Atlantica, 1607",56125236862.0,Copacabana,4115.16,Shiba Inu,Feminino,Enfermeiro,45,(21) 93810-6752
+Carla Rodrigues,"Rua Siqueira Campos, 5071",42321794363.0,Copacabana,5285.99,Maltes,Feminino,Diretor,61,(21) 97535-7657
+Luana Campos,"Avenida Vieira Souto, 1604",43066915159.0,Ipanema,6429.25,Schnauzer,Feminino,Terapeuta Ocupacional,59,(21) 96127-5576
+Luana Campos,"Avenida Aquarela do Brasil, 902",61760691010.0,Sao Conrado,5714.36,Poodle,Feminino,Antropologo,21,(21) 90858-4400
+Gabriela Rocha,"Rua Jose Higino, 6126",49978899748.0,Tijuca,7621.42,Golden Retriever,Feminino,Medico,18,(21) 93759-7489
+Juliana Costa,"Rua Senador Dantas, 6059",35071464101.0,Flamengo,8443.04,Cocker Spaniel,Feminino,Dentista,55,(21) 91927-1397
+Patricia Melo,"Rua Primeiro de Marco, 2905",41865219497.0,Centro,9719.15,Border Collie,Feminino,Farmaceutico,62,(21) 96302-3611
+Roberta Moreira,"Rua Garcia d'Avila, 4122",87978543987.0,Ipanema,1779.54,Dachshund,Feminino,Historiador,58,(21) 98270-8435
+Gabriela Rocha,"Avenida Vieira Souto, 2330",44519100095.0,Ipanema,6113.91,Schnauzer,Feminino,Contador,49,(21) 96516-4092
+Bruno Alves,"Rua Ataulfo de Paiva, 7722",70905850090.0,Leblon,5748.8,Chihuahua,Masculino,Publicitario,35,(21) 90158-6611
+Tatiane Almeida,"Rua do Russel, 2833",99180189158.0,Gloria,8451.03,Schnauzer,Feminino,Historiador,45,(21) 98233-2447
+Larissa Ferreira,"Rua Senador Dantas, 6286",17138814661.0,Flamengo,6725.33,Maltes,Feminino,Lider de Projeto,23,(21) 92704-9714
+Maria Luiza Silva,"Rua Estrela, 6181",37244784552.0,Santa Teresa,2875.55,Bulldog,Feminino,Advogado,32,(21) 99902-5112
+Mariana Lima,"Avenida Aquarela do Brasil, 7116",62647980321.0,Sao Conrado,8267.1,Beagle,Feminino,Ator,37,(21) 96570-7503
+Carlos Santos,"Rua Siqueira Campos, 6149",11980407127.0,Copacabana,2958.71,Cocker Spaniel,Masculino,Engenheiro,43,(21) 94775-1394
+Diego Silva,"Rua Ataulfo de Paiva, 4612",43542300365.0,Leblon,5798.55,Maltes,Masculino,Personal Trainer,40,(21) 94085-7271
+Gabriela Rocha,"Rua Farme de Amoedo, 2265",83688756639.0,Ipanema,5504.02,Cocker Spaniel,Feminino,Geografo,36,(21) 95486-4579
+Roberta Moreira,"Rua Uruguai, 5250",94730847911.0,Tijuca,9609.91,Dachshund,Feminino,Personal Trainer,58,(21) 98857-8724
+Diego Silva,"Rua Garcia d'Avila, 8434",95658960553.0,Ipanema,3493.17,Golden Retriever,Masculino,Lider de Projeto,59,(21) 97511-6796
+Rodrigo Costa,"Rua Uruguai, 6005",18732125161.0,Tijuca,9823.13,Basset Hound,Masculino,Geografo,54,(21) 92004-5550
+Gustavo Moreira,"Rua Humaita, 9014",60315836212.0,Humaita,4430.9,Rottweiler,Masculino,Arquiteto,30,(21) 90995-6643
+Maria Luiza Silva,"Rua Senador Dantas, 5335",13280079196.0,Flamengo,3522.63,Shih Tzu,Feminino,Publicitario,49,(21) 98777-1609
+Gabriela Rocha,"Rua Mem de Sa, 2916",75086542279.0,Lapa,5834.62,Yorkshire Terrier,Feminino,Contador,58,(21) 92085-5873
+Diego Silva,"Rua do Ouvidor, 2113",56103028126.0,Centro,2440.2,Husky Siberiano,Masculino,Biologo,45,(21) 97468-1928
+Carlos Santos,"Rua Nelson Mandela, 2689",28264514986.0,Botafogo,2253.6,Shiba Inu,Masculino,Diretor,34,(21) 99151-4759
+Michele Araujo,"Rua Conde de Iraja, 3734",35032187428.0,Catete,9020.48,Chihuahua,Feminino,Veterinario,41,(21) 96655-3029
+Rafael Melo,"Avenida Delfim Moreira, 3379",58229524508.0,Leblon,7572.37,Pit Bull,Masculino,Padeiro,59,(21) 93558-2411
+Bruna Alves,"Avenida Atlantica, 7703",16513899046.0,Copacabana,2114.29,Pug,Feminino,Administrador,24,(21) 99264-1124
+Larissa Ferreira,"Rua Domingos Ferreira, 8149",23499945131.0,Cascadura,9471.23,Shih Tzu,Feminino,Publicitario,31,(21) 93850-3260
+Natalia Pinto,"Rua do Catete, 2210",41575918025.0,Flamengo,6170.56,Chihuahua,Feminino,Diretor,48,(21) 96647-2264
+Patricia Melo,"Rua Visconde de Souza Franco, 2803",55034296265.0,Lapa,3002.92,Shih Tzu,Feminino,Veterinario,33,(21) 94328-1306
+Patricia Melo,"Avenida Rio Branco, 4584",42571081756.0,Centro,6347.41,Dachshund,Feminino,Enfermeiro,39,(21) 96983-8463
+Rodrigo Costa,"Rua do Anil, 3861",69336097709.0,Barra da Tijuca,4155.27,Dachshund,Masculino,Professor,20,(21) 91532-6262
+Rodrigo Costa,"Rua Paissandu, 458",27844986295.0,Flamengo,4634.69,Husky Siberiano,Masculino,Fisioterapeuta,19,(21) 99394-3753
+Thiago Souza,"Rua Marquesa de Santos, 729",76865030152.0,Jardim Botanico,1938.07,Rottweiler,Masculino,Professor,63,(21) 90550-2470
+Gabriela Rocha,"Rua do Lavradio, 1526",37688129587.0,Catete,5406.33,Yorkshire Terrier,Feminino,Economista,38,(21) 92754-6694
+Eduardo Campos,"Rua Nelson Mandela, 4375",58691464264.0,Botafogo,7464.76,Dachshund,Masculino,Engenheiro,39,(21) 99466-4268
+Pedro Pinto,"Rua Felipe Cardoso, 33",33762112673.0,Santa Teresa,3889.75,Rottweiler,Masculino,Ator,49,(21) 98009-1470
+Joao Almeida,"Rua Jardim Botanico, 368",90481101746.0,Jardim Botanico,6880.42,Pug,Masculino,Musico,34,(21) 94283-3496
+Mariana Lima,"Rua Humaita, 933",39704203896.0,Humaita,8337.38,Border Collie,Feminino,Ator,25,(21) 91501-3683
+Mariana Lima,"Rua Nelson Mandela, 7593",97957104421.0,Botafogo,2486.28,Pug,Feminino,Publicitario,19,(21) 91819-6569
+Rafael Melo,"Rua Barata Ribeiro, 6571",55831224523.0,Copacabana,9734.32,Yorkshire Terrier,Masculino,Desenvolvedor,58,(21) 95794-1401
+Ricardo Martins,"Rua Garcia d'Avila, 6830",91251660648.0,Ipanema,6681.22,Rottweiler,Masculino,Gerente,56,(21) 93644-2704
+Carlos Santos,"Rua do Rio Comprido, 7269",44835326816.0,Rio Comprido,7583.84,Yorkshire Terrier,Masculino,Analista de Sistemas,45,(21) 98604-2197
+Daniel Araujo,"Avenida Atlantica, 3730",59627497719.0,Copacabana,7596.26,Poodle,Masculino,Contador,46,(21) 99366-1944
+Roberta Moreira,"Rua Senador Dantas, 2535",69332729137.0,Flamengo,7981.38,Golden Retriever,Feminino,Fisioterapeuta,31,(21) 92484-8423
+Larissa Ferreira,"Rua Ataulfo de Paiva, 7165",22554251895.0,Leblon,6405.63,Dachshund,Feminino,Padeiro,43,(21) 96106-1759
+Ricardo Martins,"Rua Joaquim Nabuco, 4967",85547933288.0,Recreio dos Bandeirantes,7121.36,Poodle,Masculino,Jornalista,35,(21) 96013-8514
+Andre Carvalho,"Rua da Gloria, 1222",58914382554.0,Gloria,2304.52,Pug,Masculino,Historiador,57,(21) 96004-3167
+Lucas Ferreira,"Rua Monte Alegre, 155",88375263703.0,Santa Teresa,6532.47,Dachshund,Masculino,Diretor,45,(21) 93020-3876
+Vinicius Santos,"Rua Plinio Casado, 2384",53344104585.0,Cascadura,9115.99,Yorkshire Terrier,Masculino,Arquiteto,67,(21) 99952-4126
+Vinicius Santos,"Rua Barata Ribeiro, 4857",75570452024.0,Copacabana,7316.63,Dachshund,Masculino,Personal Trainer,30,(21) 95158-7523
+Luana Campos,"Rua do Lavradio, 3605",86398763175.0,Lapa,4226.9,Dachshund,Feminino,Lider de Projeto,21,(21) 98272-2340
+Andre Carvalho,"Rua Estrela, 6201",44982203852.0,Santa Teresa,4880.68,Pug,Masculino,Farmaceutico,71,(21) 92699-9126
+Daniel Araujo,"Rua do Ouvidor, 2899",44306172534.0,Centro,5333.63,Yorkshire Terrier,Masculino,Publicitario,62,(21) 97966-1060
+Joao Almeida,"Praia de Botafogo, 7298",11554330500.0,Botafogo,5162.84,Bulldog,Masculino,Lider de Projeto,35,(21) 96965-1200
+Camila Pereira,"Rua Siqueira Campos, 1876",98467390516.0,Copacabana,7282.64,Pit Bull,Feminino,Chef de Cozinha,29,(21) 99948-7971
+Eduardo Campos,"Rua Ary Schiavo, 3244",73954372151.0,Barra da Tijuca,4200.39,Basset Hound,Masculino,Advogado,25,(21) 98281-1225
+Antonio Silva,"Rua Buarque de Macedo, 5056",43706162392.0,Vila Isabel,8612.99,Shiba Inu,Masculino,Historiador,63,(21) 98645-2187
+Ana Beatriz Oliveira,"Rua da Gloria, 1389",63224386696.0,Gloria,4646.02,Yorkshire Terrier,Feminino,Lider de Projeto,51,(21) 92435-8685
+Bruna Alves,"Rua Silveira Martins, 4300",53971767687.0,Catete,4956.57,Rottweiler,Feminino,Analista de Sistemas,57,(21) 97446-3740
+Bruno Alves,"Rua Heitor de Silva Costa, 7809",40639608289.0,Vila Isabel,2179.77,Beagle,Masculino,Chef de Cozinha,56,(21) 95677-8087
+Natalia Pinto,"Avenida Ayrton Senna, 531",56123619548.0,Barra da Tijuca,8101.69,Cocker Spaniel,Feminino,Lider de Projeto,36,(21) 90964-4745
+Maria Luiza Silva,"Rua do Bispo, 9590",57587694780.0,Rio Comprido,3422.89,Husky Siberiano,Feminino,Historiador,27,(21) 90478-5860
+Bruna Alves,"Praia de Botafogo, 6601",81116195652.0,Botafogo,1842.02,Rottweiler,Feminino,Publicitario,53,(21) 91515-2961
+Pedro Pinto,"Rua Conde de Bonfim, 198",79419793480.0,Tijuca,4062.48,Border Collie,Masculino,Quimico,65,(21) 94953-5598
+Marcelo Lima,"Rua dos Arcos, 5297",28679614600.0,Lapa,7735.38,Border Collie,Masculino,Chef de Cozinha,55,(21) 93758-7903
+Michele Araujo,"Rua do Lavradio, 983",35397743406.0,Lapa,6589.5,Boxer,Feminino,Designer,32,(21) 90760-2105
+Viviane Mendes,"Rua Barata Ribeiro, 9782",90183265453.0,Copacabana,5778.24,Cocker Spaniel,Feminino,Geografo,28,(21) 91803-1863
+Thiago Souza,"Avenida das Americas, 1432",63712094211.0,Barra da Tijuca,6775.36,Cocker Spaniel,Masculino,Enfermeiro,18,(21) 99753-6268
+Camila Pereira,"Rua Paula Freitas, 493",22760953653.0,Copacabana,6364.73,Boxer,Feminino,Analista de Sistemas,60,(21) 96984-4907
+Viviane Mendes,"Rua Garcia d'Avila, 1850",81418473584.0,Ipanema,6520.27,Rottweiler,Feminino,Lider de Projeto,49,(21) 96048-2946
+Gustavo Moreira,"Rua Mem de Sa, 3376",65257827520.0,Lapa,3363.65,Labrador,Masculino,Antropologo,31,(21) 94636-9596
+Fernanda Santos,"Avenida Rio Branco, 7984",33194935571.0,Centro,7107.05,Rottweiler,Feminino,Musico,33,(21) 97860-6410
+Leandro Rodrigues,"Rua Mem de Sa, 9239",95229908494.0,Lapa,1665.66,Pug,Masculino,Musico,41,(21) 92385-7792
+Juliana Costa,"Rua do Lavradio, 946",65319904588.0,Catete,4615.37,Schnauzer,Feminino,Gerente,36,(21) 90237-7876
+Ricardo Martins,"Rua Nelson Mandela, 3887",81585703103.0,Botafogo,6060.88,Shih Tzu,Masculino,Enfermeiro,28,(21) 92694-1915
+Bruno Alves,"Rua Professor Annes Dias, 1554",82198860037.0,Sao Conrado,5039.57,Shiba Inu,Masculino,Producao de Eventos,22,(21) 97901-9485
+Larissa Ferreira,"Rua Lopes Quintas, 1147",59027627054.0,Jardim Botanico,2223.59,Cocker Spaniel,Feminino,Administrador,71,(21) 94795-2170

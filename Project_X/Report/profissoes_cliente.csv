@@ -1,0 +1,332 @@
+Bairro,Profissao,Quantidade
+Barra da Tijuca,Engenheiro,3
+Barra da Tijuca,Enfermeiro,3
+Barra da Tijuca,Jornalista,2
+Barra da Tijuca,Farmaceutico,2
+Barra da Tijuca,Advogado,2
+Barra da Tijuca,Veterinario,1
+Barra da Tijuca,Publicitario,1
+Barra da Tijuca,Professor,1
+Barra da Tijuca,Producao de Eventos,1
+Barra da Tijuca,Personal Trainer,1
+Barra da Tijuca,Lider de Projeto,1
+Barra da Tijuca,Diretor,1
+Barra da Tijuca,Desenvolvedor,1
+Barra da Tijuca,Dentista,1
+Barra da Tijuca,Biologo,1
+Barra da Tijuca,Artesao,1
+Barra da Tijuca,Antropologo,1
+Botafogo,Diretor,3
+Botafogo,Publicitario,2
+Botafogo,Padeiro,2
+Botafogo,Historiador,2
+Botafogo,Engenheiro,2
+Botafogo,Enfermeiro,2
+Botafogo,Administrador,2
+Botafogo,Psicologo,1
+Botafogo,Professor,1
+Botafogo,Medico,1
+Botafogo,Lider de Projeto,1
+Botafogo,Gerente,1
+Botafogo,Fisioterapeuta,1
+Botafogo,Desenvolvedor,1
+Botafogo,Arquiteto,1
+Botafogo,Analista de Sistemas,1
+Botafogo,Advogado,1
+Cascadura,Publicitario,4
+Cascadura,Professor,3
+Cascadura,Medico,2
+Cascadura,Biologo,2
+Cascadura,Antropologo,2
+Cascadura,Terapeuta Ocupacional,1
+Cascadura,Personal Trainer,1
+Cascadura,Jornalista,1
+Cascadura,Fisioterapeuta,1
+Cascadura,Farmaceutico,1
+Cascadura,Enfermeiro,1
+Cascadura,Economista,1
+Cascadura,Diretor,1
+Cascadura,Designer,1
+Cascadura,Dentista,1
+Cascadura,Contador,1
+Cascadura,Artesao,1
+Cascadura,Arquiteto,1
+Cascadura,Analista de Sistemas,1
+Cascadura,Advogado,1
+Catete,Analista de Sistemas,4
+Catete,Veterinario,3
+Catete,Padeiro,3
+Catete,Terapeuta Ocupacional,2
+Catete,Engenheiro,2
+Catete,Dentista,2
+Catete,Publicitario,1
+Catete,Psicologo,1
+Catete,Personal Trainer,1
+Catete,Medico,1
+Catete,Gerente,1
+Catete,Farmaceutico,1
+Catete,Enfermeiro,1
+Catete,Economista,1
+Catete,Biologo,1
+Catete,Antropologo,1
+Catete,Advogado,1
+Centro,Psicologo,3
+Centro,Musico,2
+Centro,Engenheiro,2
+Centro,Enfermeiro,2
+Centro,Biologo,2
+Centro,Ator,2
+Centro,Terapeuta Ocupacional,1
+Centro,Publicitario,1
+Centro,Producao de Eventos,1
+Centro,Padeiro,1
+Centro,Lider de Projeto,1
+Centro,Geografo,1
+Centro,Farmaceutico,1
+Centro,Desenvolvedor,1
+Centro,Artesao,1
+Centro,Analista de Sistemas,1
+Copacabana,Contador,3
+Copacabana,Desenvolvedor,2
+Copacabana,Arquiteto,2
+Copacabana,Veterinario,1
+Copacabana,Terapeuta Ocupacional,1
+Copacabana,Publicitario,1
+Copacabana,Psicologo,1
+Copacabana,Producao de Eventos,1
+Copacabana,Personal Trainer,1
+Copacabana,Padeiro,1
+Copacabana,Lider de Projeto,1
+Copacabana,Gerente,1
+Copacabana,Geografo,1
+Copacabana,Engenheiro,1
+Copacabana,Enfermeiro,1
+Copacabana,Diretor,1
+Copacabana,Designer,1
+Copacabana,Dentista,1
+Copacabana,Chef de Cozinha,1
+Copacabana,Analista de Sistemas,1
+Copacabana,Advogado,1
+Copacabana,Administrador,1
+Flamengo,Fisioterapeuta,4
+Flamengo,Publicitario,3
+Flamengo,Lider de Projeto,3
+Flamengo,Antropologo,3
+Flamengo,Padeiro,2
+Flamengo,Historiador,2
+Flamengo,Gerente,2
+Flamengo,Dentista,2
+Flamengo,Biologo,2
+Flamengo,Psicologo,1
+Flamengo,Professor,1
+Flamengo,Producao de Eventos,1
+Flamengo,Geografo,1
+Flamengo,Diretor,1
+Flamengo,Designer,1
+Flamengo,Desenvolvedor,1
+Flamengo,Contador,1
+Flamengo,Chef de Cozinha,1
+Flamengo,Arquiteto,1
+Flamengo,Analista de Sistemas,1
+Flamengo,Administrador,1
+Gloria,Publicitario,2
+Gloria,Historiador,2
+Gloria,Fisioterapeuta,2
+Gloria,Enfermeiro,2
+Gloria,Advogado,2
+Gloria,Veterinario,1
+Gloria,Psicologo,1
+Gloria,Musico,1
+Gloria,Medico,1
+Gloria,Lider de Projeto,1
+Gloria,Jornalista,1
+Gloria,Farmaceutico,1
+Gloria,Engenheiro,1
+Gloria,Designer,1
+Gloria,Contador,1
+Gloria,Administrador,1
+Humaita,Arquiteto,3
+Humaita,Psicologo,2
+Humaita,Diretor,2
+Humaita,Veterinario,1
+Humaita,Quimico,1
+Humaita,Producao de Eventos,1
+Humaita,Personal Trainer,1
+Humaita,Historiador,1
+Humaita,Farmaceutico,1
+Humaita,Engenheiro,1
+Humaita,Contador,1
+Humaita,Chef de Cozinha,1
+Humaita,Biologo,1
+Humaita,Ator,1
+Humaita,Artesao,1
+Ipanema,Dentista,5
+Ipanema,Gerente,3
+Ipanema,Contador,3
+Ipanema,Lider de Projeto,2
+Ipanema,Geografo,2
+Ipanema,Farmaceutico,2
+Ipanema,Designer,2
+Ipanema,Arquiteto,2
+Ipanema,Veterinario,1
+Ipanema,Terapeuta Ocupacional,1
+Ipanema,Publicitario,1
+Ipanema,Psicologo,1
+Ipanema,Producao de Eventos,1
+Ipanema,Musico,1
+Ipanema,Historiador,1
+Ipanema,Economista,1
+Ipanema,Chef de Cozinha,1
+Ipanema,Biologo,1
+Ipanema,Advogado,1
+Ipanema,Administrador,1
+Jardim Botanico,Musico,4
+Jardim Botanico,Padeiro,3
+Jardim Botanico,Administrador,3
+Jardim Botanico,Psicologo,2
+Jardim Botanico,Historiador,2
+Jardim Botanico,Veterinario,1
+Jardim Botanico,Terapeuta Ocupacional,1
+Jardim Botanico,Quimico,1
+Jardim Botanico,Professor,1
+Jardim Botanico,Designer,1
+Jardim Botanico,Desenvolvedor,1
+Jardim Botanico,Artesao,1
+Jardim Botanico,Antropologo,1
+Lapa,Diretor,3
+Lapa,Desenvolvedor,3
+Lapa,Antropologo,3
+Lapa,Professor,2
+Lapa,Personal Trainer,2
+Lapa,Lider de Projeto,2
+Lapa,Contador,2
+Lapa,Chef de Cozinha,2
+Lapa,Artesao,2
+Lapa,Veterinario,1
+Lapa,Publicitario,1
+Lapa,Producao de Eventos,1
+Lapa,Padeiro,1
+Lapa,Musico,1
+Lapa,Jornalista,1
+Lapa,Gerente,1
+Lapa,Geografo,1
+Lapa,Fisioterapeuta,1
+Lapa,Designer,1
+Lapa,Dentista,1
+Lapa,Ator,1
+Lapa,Analista de Sistemas,1
+Leblon,Padeiro,4
+Leblon,Terapeuta Ocupacional,3
+Leblon,Publicitario,2
+Leblon,Professor,2
+Leblon,Personal Trainer,2
+Leblon,Diretor,2
+Leblon,Chef de Cozinha,2
+Leblon,Biologo,2
+Leblon,Musico,1
+Leblon,Medico,1
+Leblon,Gerente,1
+Leblon,Fisioterapeuta,1
+Leblon,Engenheiro,1
+Leblon,Enfermeiro,1
+Leblon,Economista,1
+Leblon,Desenvolvedor,1
+Leblon,Advogado,1
+Recreio dos Bandeirantes,Arquiteto,4
+Recreio dos Bandeirantes,Analista de Sistemas,3
+Recreio dos Bandeirantes,Publicitario,2
+Recreio dos Bandeirantes,Professor,2
+Recreio dos Bandeirantes,Musico,2
+Recreio dos Bandeirantes,Jornalista,2
+Recreio dos Bandeirantes,Veterinario,1
+Recreio dos Bandeirantes,Personal Trainer,1
+Recreio dos Bandeirantes,Padeiro,1
+Recreio dos Bandeirantes,Medico,1
+Recreio dos Bandeirantes,Historiador,1
+Recreio dos Bandeirantes,Gerente,1
+Recreio dos Bandeirantes,Geografo,1
+Recreio dos Bandeirantes,Economista,1
+Recreio dos Bandeirantes,Chef de Cozinha,1
+Recreio dos Bandeirantes,Ator,1
+Recreio dos Bandeirantes,Antropologo,1
+Recreio dos Bandeirantes,Advogado,1
+Rio Comprido,Advogado,3
+Rio Comprido,Psicologo,2
+Rio Comprido,Professor,2
+Rio Comprido,Personal Trainer,2
+Rio Comprido,Historiador,2
+Rio Comprido,Engenheiro,2
+Rio Comprido,Designer,2
+Rio Comprido,Publicitario,1
+Rio Comprido,Lider de Projeto,1
+Rio Comprido,Jornalista,1
+Rio Comprido,Geografo,1
+Rio Comprido,Farmaceutico,1
+Rio Comprido,Economista,1
+Rio Comprido,Desenvolvedor,1
+Rio Comprido,Contador,1
+Rio Comprido,Chef de Cozinha,1
+Rio Comprido,Ator,1
+Rio Comprido,Artesao,1
+Rio Comprido,Analista de Sistemas,1
+Santa Teresa,Ator,3
+Santa Teresa,Veterinario,2
+Santa Teresa,Artesao,2
+Santa Teresa,Advogado,2
+Santa Teresa,Publicitario,1
+Santa Teresa,Psicologo,1
+Santa Teresa,Professor,1
+Santa Teresa,Personal Trainer,1
+Santa Teresa,Medico,1
+Santa Teresa,Farmaceutico,1
+Santa Teresa,Engenheiro,1
+Santa Teresa,Enfermeiro,1
+Santa Teresa,Economista,1
+Santa Teresa,Diretor,1
+Santa Teresa,Designer,1
+Santa Teresa,Analista de Sistemas,1
+Sao Conrado,Ator,3
+Sao Conrado,Antropologo,3
+Sao Conrado,Gerente,2
+Sao Conrado,Quimico,1
+Sao Conrado,Publicitario,1
+Sao Conrado,Psicologo,1
+Sao Conrado,Producao de Eventos,1
+Sao Conrado,Medico,1
+Sao Conrado,Enfermeiro,1
+Sao Conrado,Designer,1
+Sao Conrado,Contador,1
+Sao Conrado,Advogado,1
+Sao Conrado,Administrador,1
+Tijuca,Professor,3
+Tijuca,Dentista,3
+Tijuca,Quimico,2
+Tijuca,Designer,2
+Tijuca,Biologo,2
+Tijuca,Antropologo,2
+Tijuca,Veterinario,1
+Tijuca,Terapeuta Ocupacional,1
+Tijuca,Producao de Eventos,1
+Tijuca,Personal Trainer,1
+Tijuca,Padeiro,1
+Tijuca,Medico,1
+Tijuca,Jornalista,1
+Tijuca,Geografo,1
+Tijuca,Enfermeiro,1
+Tijuca,Diretor,1
+Tijuca,Administrador,1
+Vila Isabel,Diretor,3
+Vila Isabel,Professor,2
+Vila Isabel,Chef de Cozinha,2
+Vila Isabel,Ator,2
+Vila Isabel,Veterinario,1
+Vila Isabel,Producao de Eventos,1
+Vila Isabel,Musico,1
+Vila Isabel,Medico,1
+Vila Isabel,Lider de Projeto,1
+Vila Isabel,Jornalista,1
+Vila Isabel,Historiador,1
+Vila Isabel,Geografo,1
+Vila Isabel,Farmaceutico,1
+Vila Isabel,Arquiteto,1
+Vila Isabel,Advogado,1
