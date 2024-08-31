@@ -1,0 +1,490 @@
+"C:\Users\dltom\OneDrive\Área de Trabalho\Project_X\.venv\Scripts\python.exe" "C:\Users\dltom\OneDrive\Área de Trabalho\Project_X\main.py" 
+
+=-==-==-==-==-==-==-==-==-==-= INFORMACOES DADOS BRUTOS =-==-==-==-==-==-==-==-==-==-=
+
+# Informacoes de sistema 
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 500 entries, 0 to 499
+Data columns (total 10 columns):
+ #   Column     Non-Null Count  Dtype  
+---  ------     --------------  -----  
+ 0   Cliente    499 non-null    object 
+ 1   Endereco   500 non-null    object 
+ 2   CPF        486 non-null    float64
+ 3   Bairro     500 non-null    object 
+ 4   Salario    499 non-null    float64
+ 5   Raca       500 non-null    object 
+ 6   Sexo       500 non-null    object 
+ 7   Profissao  500 non-null    object 
+ 8   Idade      500 non-null    int64  
+ 9   Celular    500 non-null    object 
+dtypes: float64(2), int64(1), object(7)
+memory usage: 39.2+ KB
+None
+
+# DataFrame - Dados originais 
+               Cliente                         Endereco  ...  Idade          Celular
+0       Patricia Melo        Avenida Glaucio Gil, 6646  ...     20  (21) 92617-3150
+1       Rodrigo Costa            Rua Gal. Osorio, 9448  ...     29  (21) 92032-5663
+2        Thiago Souza          Praia de Botafogo, 2145  ...     51  (21) 90435-2109
+3      Andre Carvalho       Avenida Ayrton Senna, 5716  ...     65  (21) 94973-6373
+4         Diego Silva  Rua Heitor de Silva Costa, 4524  ...     66  (21) 94591-9335
+..                ...                              ...  ...    ...              ...
+495     Juliana Costa             Rua do Lavradio, 946  ...     36  (21) 90237-7876
+496   Ricardo Martins         Rua Nelson Mandela, 3887  ...     28  (21) 92694-1915
+497       Bruno Alves   Rua Professor Annes Dias, 1554  ...     22  (21) 97901-9485
+498  Larissa Ferreira          Rua Lopes Quintas, 1147  ...     71  (21) 94795-2170
+499    Andre Carvalho       Rua Silveira Martins, 4777  ...     55  (21) 95333-1005
+
+[500 rows x 10 columns]
+
+# Estatisticas Descritivas - Colunas Numericas 
+
+---------- CPF ----------
+
+# Total de valores (count): 486
+# Media (mean): 56321913725.29
+# Desvio padrao (std): 25043780702.36
+# 1º Quartil (25%): 34397435139.50
+# 3º Quartil (75%): 78002448866.00
+# Mediana (50%): 56292180196.00
+# Valor maximo (max): 99728572365.00
+# Valor minimo (min): 10005085983.00
+
+---------- Salario ----------
+
+# Total de valores (count): 499
+# Media (mean): 5804.28
+# Desvio padrao (std): 2568.29
+# 1º Quartil (25%): 3362.97
+# 3º Quartil (75%): 8106.06
+# Mediana (50%): 6016.94
+# Valor maximo (max): 9966.73
+# Valor minimo (min): 0.00
+
+---------- Idade ----------
+
+# Total de valores (count): 500
+# Media (mean): 45.22
+# Desvio padrao (std): 15.53
+# 1º Quartil (25%): 32.00
+# 3º Quartil (75%): 58.00
+# Mediana (50%): 45.00
+# Valor maximo (max): 72.00
+# Valor minimo (min): 18.00
+
+# Estatisticas Descritivas para Colunas Categoricas 
+
+---------- Cliente ----------
+
+# Total de valores (count): 499
+# Valor mais frequente (top): Juliana Costa
+# Frequencia do valor mais frequente (freq): 19
+
+
+---------- Endereco ----------
+
+# Total de valores (count): 500
+# Valor mais frequente (top): Rua do Lavradio, 4586
+# Frequencia do valor mais frequente (freq): 2
+
+
+---------- Bairro ----------
+
+# Total de valores (count): 500
+# Valor mais frequente (top): Lapa
+# Frequencia do valor mais frequente (freq): 35
+
+
+---------- Raca ----------
+
+# Total de valores (count): 500
+# Valor mais frequente (top): Boxer
+# Frequencia do valor mais frequente (freq): 32
+
+
+---------- Sexo ----------
+
+# Total de valores (count): 500
+# Valor mais frequente (top): Masculino
+# Frequencia do valor mais frequente (freq): 255
+
+
+---------- Profissao ----------
+
+# Total de valores (count): 500
+# Valor mais frequente (top): Publicitario
+# Frequencia do valor mais frequente (freq): 25
+
+
+---------- Celular ----------
+
+# Total de valores (count): 500
+# Valor mais frequente (top): (21) 95333-1005
+# Frequencia do valor mais frequente (freq): 1
+
+
+=-==-==-==-==-==-==-==-==-==-= INFORMACOES DADOS TRATADOS =-==-==-==-==-==-==-==-==-==-=
+
+# Tratamento: Dados inconsistentes 
+              Cliente                          Endereco  ...  Idade          Celular
+154     Marcelo Lima             Rua Jose Higino, 8123  ...     59  (21) 92958-8380
+174    Patricia Melo            Rua Joao Vicente, 4930  ...     62  (21) 92844-1061
+191    Rodrigo Costa               Rua do Pepino, 3669  ...     55  (21) 97225-9367
+209  Ricardo Martins    Rua Barao de Santa Marta, 2687  ...     66  (21) 92229-4912
+245              NaN           Rua Lopes Quintas, 4809  ...     54  (21) 98718-8164
+257   Gabriela Rocha         Rua do Rio Comprido, 8556  ...     65  (21) 99999-8029
+278  Roberta Moreira          Rua Candido Mendes, 3315  ...     40  (21) 93334-4449
+294  Roberta Moreira             Rua do Lavradio, 4586  ...     48  (21) 91877-7248
+321   Eduardo Campos  Avenida Aquarela do Brasil, 2794  ...     39  (21) 98853-3710
+346     Marcelo Lima   Rua Almirante Alexandrino, 1991  ...     26  (21) 96298-1487
+372      Bruno Alves             Rua Ary Schiavo, 3411  ...     41  (21) 95469-7381
+391  Gustavo Moreira   Rua Heitor de Silva Costa, 3457  ...     61  (21) 94010-4907
+419      Rafael Melo         Rua Farme de Amoedo, 1985  ...     32  (21) 99480-8772
+435      Diego Silva  Avenida Aquarela do Brasil, 7223  ...     47  (21) 98191-1540
+452      Bruna Alves        Rua Ataulfo de Paiva, 5773  ...     35  (21) 99682-8294
+468   Camila Pereira           Avenida Atlantica, 2812  ...     64  (21) 91216-1085
+
+[16 rows x 10 columns]
+
+# DataFrame Apos Remover Valores Nulos e Zeros
+               Cliente                         Endereco  ...  Idade          Celular
+0        Patricia Melo        Avenida Glaucio Gil, 6646  ...     20  (21) 92617-3150
+1        Rodrigo Costa            Rua Gal. Osorio, 9448  ...     29  (21) 92032-5663
+2         Thiago Souza          Praia de Botafogo, 2145  ...     51  (21) 90435-2109
+3       Andre Carvalho       Avenida Ayrton Senna, 5716  ...     65  (21) 94973-6373
+4          Diego Silva  Rua Heitor de Silva Costa, 4524  ...     66  (21) 94591-9335
+..                 ...                              ...  ...    ...              ...
+494  Leandro Rodrigues              Rua Mem de Sa, 9239  ...     41  (21) 92385-7792
+495      Juliana Costa             Rua do Lavradio, 946  ...     36  (21) 90237-7876
+496    Ricardo Martins         Rua Nelson Mandela, 3887  ...     28  (21) 92694-1915
+497        Bruno Alves   Rua Professor Annes Dias, 1554  ...     22  (21) 97901-9485
+498   Larissa Ferreira          Rua Lopes Quintas, 1147  ...     71  (21) 94795-2170
+
+[483 rows x 10 columns]
+
+# Informacoes de sistema 
+<class 'pandas.core.frame.DataFrame'>
+Index: 483 entries, 0 to 498
+Data columns (total 10 columns):
+ #   Column     Non-Null Count  Dtype  
+---  ------     --------------  -----  
+ 0   Cliente    483 non-null    object 
+ 1   Endereco   483 non-null    object 
+ 2   CPF        483 non-null    float64
+ 3   Bairro     483 non-null    object 
+ 4   Salario    483 non-null    float64
+ 5   Raca       483 non-null    object 
+ 6   Sexo       483 non-null    object 
+ 7   Profissao  483 non-null    object 
+ 8   Idade      483 non-null    int64  
+ 9   Celular    483 non-null    object 
+dtypes: float64(2), int64(1), object(7)
+memory usage: 41.5+ KB
+None
+
+# DataFrame - Dados Tratados 
+                Cliente                         Endereco  ...  Idade          Celular
+0        Patricia Melo        Avenida Glaucio Gil, 6646  ...     20  (21) 92617-3150
+1        Rodrigo Costa            Rua Gal. Osorio, 9448  ...     29  (21) 92032-5663
+2         Thiago Souza          Praia de Botafogo, 2145  ...     51  (21) 90435-2109
+3       Andre Carvalho       Avenida Ayrton Senna, 5716  ...     65  (21) 94973-6373
+4          Diego Silva  Rua Heitor de Silva Costa, 4524  ...     66  (21) 94591-9335
+..                 ...                              ...  ...    ...              ...
+494  Leandro Rodrigues              Rua Mem de Sa, 9239  ...     41  (21) 92385-7792
+495      Juliana Costa             Rua do Lavradio, 946  ...     36  (21) 90237-7876
+496    Ricardo Martins         Rua Nelson Mandela, 3887  ...     28  (21) 92694-1915
+497        Bruno Alves   Rua Professor Annes Dias, 1554  ...     22  (21) 97901-9485
+498   Larissa Ferreira          Rua Lopes Quintas, 1147  ...     71  (21) 94795-2170
+
+[483 rows x 10 columns]
+
+# Estatisticas Descritivas para Colunas Numericas 
+
+---------- CPF ----------
+
+# Total de valores (count): 483
+# Media (mean): 56134304769.56
+# Desvio padrao (std): 25006913303.54
+# 1º Quartil (25%): 34329451035.50
+# 3º Quartil (75%): 77820955638.50
+# Mediana (50%): 56123619548.00
+# Valor maximo (max): 99728572365.00
+# Valor minimo (min): 10005085983.00
+
+---------- Salario ----------
+
+# Total de valores (count): 483
+# Media (mean): 5790.06
+# Desvio padrao (std): 2536.89
+# 1º Quartil (25%): 3362.97
+# 3º Quartil (75%): 8051.40
+# Mediana (50%): 6009.23
+# Valor maximo (max): 9966.73
+# Valor minimo (min): 1359.66
+
+---------- Idade ----------
+
+# Total de valores (count): 483
+# Media (mean): 45.06
+# Desvio padrao (std): 15.60
+# 1º Quartil (25%): 31.50
+# 3º Quartil (75%): 58.00
+# Mediana (50%): 45.00
+# Valor maximo (max): 72.00
+# Valor minimo (min): 18.00
+
+# Estatisticas Descritivas - Colunas Categoricas 
+
+---------- Cliente ----------
+
+# Total de valores (count): 483
+# Valor mais frequente (top): Juliana Costa
+# Frequencia do valor mais frequente (freq): 19
+
+
+---------- Endereco ----------
+
+# Total de valores (count): 483
+# Valor mais frequente (top): Rua Lopes Quintas, 1147
+# Frequencia do valor mais frequente (freq): 1
+
+
+---------- Bairro ----------
+
+# Total de valores (count): 483
+# Valor mais frequente (top): Flamengo
+# Frequencia do valor mais frequente (freq): 35
+
+
+---------- Raca ----------
+
+# Total de valores (count): 483
+# Valor mais frequente (top): Maltes
+# Frequencia do valor mais frequente (freq): 32
+
+
+---------- Sexo ----------
+
+# Total de valores (count): 483
+# Valor mais frequente (top): Masculino
+# Frequencia do valor mais frequente (freq): 245
+
+
+---------- Profissao ----------
+
+# Total de valores (count): 483
+# Valor mais frequente (top): Publicitario
+# Frequencia do valor mais frequente (freq): 24
+
+
+---------- Celular ----------
+
+# Total de valores (count): 483
+# Valor mais frequente (top): (21) 94795-2170
+# Frequencia do valor mais frequente (freq): 1
+
+
+# Dados tratados salvos em 'DataBase\dadosTratados.csv'.
+
+# Salario Medio por Bairro 
+                      Bairro  Salario_Medio
+0                    Humaita        6841.21
+1                     Gloria        6742.02
+2                     Tijuca        6492.28
+3                Sao Conrado        6434.20
+4                     Catete        6247.16
+5               Rio Comprido        6163.54
+6   Recreio dos Bandeirantes        5955.59
+7                  Cascadura        5887.69
+8                Vila Isabel        5885.72
+9            Barra da Tijuca        5781.43
+10                Copacabana        5656.46
+11                   Ipanema        5641.81
+12                  Flamengo        5567.77
+13                      Lapa        5564.23
+14              Santa Teresa        5550.14
+15                    Centro        5495.98
+16                    Leblon        5199.76
+17           Jardim Botanico        4785.45
+18                  Botafogo        4742.30
+
+# Numero de Clientes por Bairro
+                      Bairro  Numero_Clientes
+0                   Flamengo               35
+1                       Lapa               34
+2                    Ipanema               33
+3                     Leblon               28
+4                  Cascadura               28
+5               Rio Comprido               27
+6   Recreio dos Bandeirantes               27
+7                     Catete               27
+8                 Copacabana               26
+9                     Tijuca               25
+10                  Botafogo               25
+11           Barra da Tijuca               24
+12                    Centro               23
+13           Jardim Botanico               22
+14              Santa Teresa               21
+15                    Gloria               21
+16               Vila Isabel               20
+17                   Humaita               19
+18               Sao Conrado               18
+
+# Distribuicao de Raças de Cachorro por Bairro
+              Bairro               Raca  Quantidade
+0    Barra da Tijuca             Poodle           3
+1    Barra da Tijuca     Cocker Spaniel           3
+2    Barra da Tijuca  Yorkshire Terrier           2
+3    Barra da Tijuca           Shih Tzu           2
+4    Barra da Tijuca         Rottweiler           2
+..               ...                ...         ...
+270      Vila Isabel          Schnauzer           1
+271      Vila Isabel             Poodle           1
+272      Vila Isabel   Golden Retriever           1
+273      Vila Isabel          Chihuahua           1
+274      Vila Isabel             Beagle           1
+
+[275 rows x 3 columns]
+
+# Distribuicao de Profissoes dos Clientes por Bairro
+              Bairro     Profissao  Quantidade
+0    Barra da Tijuca    Engenheiro           3
+1    Barra da Tijuca    Enfermeiro           3
+2    Barra da Tijuca    Jornalista           2
+3    Barra da Tijuca  Farmaceutico           2
+4    Barra da Tijuca      Advogado           2
+..               ...           ...         ...
+326      Vila Isabel   Historiador           1
+327      Vila Isabel      Geografo           1
+328      Vila Isabel  Farmaceutico           1
+329      Vila Isabel     Arquiteto           1
+330      Vila Isabel      Advogado           1
+
+[331 rows x 3 columns]
+
+# Faixa Etaria dos Clientes por Bairro
+                      Bairro  Idade_Media  Idade_Minima  Idade_Maxima
+0                Vila Isabel           52            18            72
+1                     Gloria           49            22            72
+2   Recreio dos Bandeirantes           48            20            72
+3                     Tijuca           48            18            70
+4                    Ipanema           47            18            71
+5                   Botafogo           46            19            72
+6                     Centro           46            18            71
+7                   Flamengo           46            19            70
+8                     Catete           45            25            69
+9               Rio Comprido           45            25            65
+10           Jardim Botanico           45            20            72
+11                      Lapa           44            21            72
+12                Copacabana           44            20            70
+13                    Leblon           43            18            71
+14           Barra da Tijuca           41            18            68
+15               Sao Conrado           41            18            71
+16              Santa Teresa           40            19            71
+17                 Cascadura           39            18            67
+18                   Humaita           37            18            67
+
+# Salário Médio e Quantidade de Clientes por Bairro
+                      Bairro  Salario_Medio  Numero_Clientes
+0                    Humaita        6841.21               19
+1                     Gloria        6742.02               21
+2                     Tijuca        6492.28               25
+3                Sao Conrado        6434.20               18
+4                     Catete        6247.16               27
+5               Rio Comprido        6163.54               27
+6   Recreio dos Bandeirantes        5955.59               27
+7                  Cascadura        5887.69               28
+8                Vila Isabel        5885.72               20
+9            Barra da Tijuca        5781.43               24
+10                Copacabana        5656.46               26
+11                   Ipanema        5641.81               33
+12                  Flamengo        5567.77               35
+13                      Lapa        5564.23               34
+14              Santa Teresa        5550.14               21
+15                    Centro        5495.98               23
+16                    Leblon        5199.76               28
+17           Jardim Botanico        4785.45               22
+18                  Botafogo        4742.30               25
+
+# Quantidade de Clientes por Faixa Salarial
+  Faixa_Salarial  Numero_Clientes
+0     7001-10000              174
+1      5001-7000              118
+2      3001-5000               96
+3      1350-3000               95
+
+# Clientes com Raca de Cachorro Popular
+               Cliente             Raca
+0         Thiago Souza  Husky Siberiano
+1        Daniel Araujo    Border Collie
+2    Leandro Rodrigues    Border Collie
+3      Fernanda Santos        Chihuahua
+4    Maria Luiza Silva        Chihuahua
+..                 ...              ...
+148  Maria Luiza Silva  Husky Siberiano
+149        Pedro Pinto    Border Collie
+150       Marcelo Lima    Border Collie
+151     Michele Araujo            Boxer
+152     Camila Pereira            Boxer
+
+[153 rows x 2 columns]
+
+# Correlação entre Salário e Idade
+     Salario_Medio  Idade_Media
+0          9966.73           49
+1          9921.85           21
+2          9916.86           45
+3          9907.91           66
+4          9848.10           36
+..             ...          ...
+478        1413.24           40
+479        1409.09           43
+480        1409.02           27
+481        1371.94           52
+482        1359.66           30
+
+[483 rows x 2 columns]
+
+# Correlação entre Salário e Idade
+                      Bairro       Sexo  Numero_Clientes
+0            Barra da Tijuca  Masculino               12
+1            Barra da Tijuca   Feminino               12
+2                   Botafogo  Masculino               15
+3                   Botafogo   Feminino               10
+4                  Cascadura  Masculino               19
+5                  Cascadura   Feminino                9
+6                     Catete  Masculino               14
+7                     Catete   Feminino               13
+8                     Centro   Feminino               15
+9                     Centro  Masculino                8
+10                Copacabana   Feminino               14
+11                Copacabana  Masculino               12
+12                  Flamengo   Feminino               19
+13                  Flamengo  Masculino               16
+14                    Gloria  Masculino               11
+15                    Gloria   Feminino               10
+16                   Humaita  Masculino               14
+17                   Humaita   Feminino                5
+18                   Ipanema   Feminino               20
+19                   Ipanema  Masculino               13
+20           Jardim Botanico  Masculino               13
+21           Jardim Botanico   Feminino                9
+22                      Lapa  Masculino               20
+23                      Lapa   Feminino               14
+24                    Leblon  Masculino               16
+25                    Leblon   Feminino               12
+26  Recreio dos Bandeirantes  Masculino               14
+27  Recreio dos Bandeirantes   Feminino               13
+28              Rio Comprido   Feminino               18
+29              Rio Comprido  Masculino                9
+30              Santa Teresa   Feminino               14
+31              Santa Teresa  Masculino                7
+32               Sao Conrado   Feminino               11
+33               Sao Conrado  Masculino                7
+34                    Tijuca  Masculino               13
+35                    Tijuca   Feminino               12
+36               Vila Isabel  Masculino               12
+37               Vila Isabel   Feminino                8
+
+Process finished with exit code 0
