@@ -7,4 +7,5 @@ Curso: Gestão da Tecnologia da Informação
 Matéria: Projeto de Extensão - Tópicos de Big Data em Python
 
 Autora: Daniele Barros Alvarenga
+
 Matrícula: 2205230473
